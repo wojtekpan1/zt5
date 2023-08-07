@@ -1,0 +1,21 @@
+.banner3 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  height: 1080px;
+  width: 1920px;
+}
+
+.overlap-group5-13 {
+  align-items: center;
+  background-color: var(--aqua-deep);
+  display: flex;
+  flex-direction: column;
+  min-height: 1080px;
+  padding: 44px 0;
+  position: relative;
+  width: 1920px;
+}
+

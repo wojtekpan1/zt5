@@ -1,0 +1,281 @@
+.home-2 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5005px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-65 {
+  align-items: center;
+  display: flex;
+  height: 60px;
+  margin-left: 1.0px;
+  margin-top: 43px;
+  min-width: 1281px;
+  padding: 5px 0;
+}
+
+.logo-99 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-56 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-40 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-141 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-122 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 218px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-72 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 117px;
+  min-height: 73px;
+  min-width: 704px;
+}
+
+.rebuild-the-healthca-16 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-height: 29px;
+  text-align: center;
+  width: 785px;
+}
+
+.solutions-91 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 150px;
+  min-height: 662px;
+  width: 1336px;
+}
+
+.our-solutions-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 237px;
+}
+
+.lorem-ipsum-dolor-si-250 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 642px;
+}
+
+.frame-17-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 81px;
+  min-height: 41px;
+  width: 1336px;
+}
+
+.frame-16-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 55px;
+  height: 24px;
+  min-width: 1336px;
+}
+
+.early-pathogen-recognition-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 255px;
+  white-space: nowrap;
+}
+
+.patient-engagement-15 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 198px;
+  white-space: nowrap;
+}
+
+.value-based-healthcare-management-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 354px;
+  white-space: nowrap;
+}
+
+.tele-diagnostics-ai-decision-support-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group4-20 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  margin-left: 3px;
+  min-width: 1333px;
+  padding: 0 300px;
+}
+
+.line-3-6 {
+  height: 1px;
+  width: 205px;
+}
+
+.overlap-group5-8 {
+  align-self: flex-start;
+  border-radius: 20px;
+  height: 259px;
+  margin-top: 60px;
+  position: relative;
+  width: 1316px;
+}
+
+.group-18-2 {
+  align-items: flex-end;
+  border-radius: 20px;
+  display: flex;
+  gap: 47px;
+  height: 259px;
+  left: 0;
+  min-width: 1316px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group2-31 {
+  height: 259px;
+  position: relative;
+  width: 980px;
+}
+
+.lorem-ipsum-dolor-si-251 {
+  left: 638px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 342px;
+}
+
+.overlap-group-99 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  justify-content: flex-end;
+  left: 322px;
+  min-width: 289px;
+  padding: 116px 83px;
+  position: absolute;
+  top: 0;
+}
+
+.solution-56 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.group-14-1 {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  gap: 344px;
+  height: 258px;
+  left: 0;
+  min-width: 979px;
+  position: absolute;
+  top: 1px;
+}
+
+.overlap-group1-37 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 116px 85px;
+}
+
+.lorem-ipsum-dolor-si-252 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 45.0px;
+  min-height: 77px;
+  width: 342px;
+}
+
+.overlap-group3-28 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 116px 84px;
+}
+
+.request-a-demo-12 {
+  left: 655px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 229px;
+}
+

@@ -1,0 +1,25 @@
+.level-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  margin-right: 6.0px;
+  min-height: 303px;
+  position: relative;
+  width: 442px;
+}
+
+.level-1.level-2 {
+  margin-right: unset;
+  margin-top: 9.0px;
+}
+
+.level-1.level-2-1,
+.level-1.level-2-2,
+.level-1.level-2-3 {
+  align-self: unset;
+  margin-right: unset;
+  margin-top: 9.0px;
+}
+

@@ -1,0 +1,60 @@
+.contact-us-empty-form {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-9 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-20 {
+  height: 591px;
+  position: relative;
+}
+
+.inquiry-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.place-an-inquiry-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.form-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-90-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+

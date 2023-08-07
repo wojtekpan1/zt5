@@ -1,0 +1,74 @@
+.team-3 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2315px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-40 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-60 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-63 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.flex-row-41 {
+  align-items: center;
+  display: flex;
+  gap: 421px;
+  height: 308px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  min-width: 1293px;
+  position: relative;
+}
+
+.flex-col-52 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 308px;
+  position: relative;
+  width: 646px;
+}
+
+.title-44 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-149 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+

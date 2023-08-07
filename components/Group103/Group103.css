@@ -1,0 +1,99 @@
+.group-103 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  margin-left: 1.0px;
+  margin-top: 100px;
+  min-height: 270px;
+  width: 1293px;
+}
+
+.contact-information-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.frame-91-5 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border-radius: 20px;
+  display: flex;
+  gap: 276px;
+  height: 193px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  min-width: 1289px;
+  padding: 0 53px;
+}
+
+.email-us-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 61px;
+  width: 139px;
+}
+
+.email-us-21,
+.visit-us-6,
+.call-us-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.xxxxxxmailcom-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.visit-us-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 57px;
+  width: 218px;
+}
+
+.lorem-ipsum-dolor-sit-amet {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 214px;
+}
+
+.call-us-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 57px;
+  width: 204px;
+}
+
+.text-10-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 200px;
+}
+
+.group-103.group-103-2 {
+  margin-top: 114px;
+}
+
+.group-103.group-103-3 {
+  margin-top: 107px;
+}
+

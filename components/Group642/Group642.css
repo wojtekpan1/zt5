@@ -1,0 +1,45 @@
+.group-6-1 {
+  height: 89px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 635px;
+}
+
+.overlap-group-14 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 2px solid;
+  border-color: var(--primarybeige);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 633px;
+  padding: 0 30.6px;
+}
+
+.name-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 458px;
+}
+
+.group-6-1.group-69-1,
+.group-6-1.group-69-2,
+.group-6-1.group-69-3,
+.group-6-1.group-69-4 {
+  height: 283px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 635px;
+}
+
+.group-6-1.group-69-1 .overlap-group-14,
+.group-6-1.group-69-2 .overlap-group-14,
+.group-6-1.group-69-3 .overlap-group-14,
+.group-6-1.group-69-4 .overlap-group-14 {
+  align-items: flex-start;
+  height: 283px;
+  padding: 28px 30.6px;
+}
+

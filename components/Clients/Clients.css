@@ -1,0 +1,113 @@
+.clients-99,
+.clients-100 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 81px;
+  margin-right: 5.0px;
+  margin-top: 150px;
+  min-height: 596px;
+  width: 1301px;
+}
+
+.flex-col-96,
+.flex-col-97 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-right: 1.0px;
+  margin-top: -1px;
+  min-height: 112px;
+  width: 642px;
+}
+
+.our-clients-words-16,
+.our-clients-words-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 318px;
+}
+
+.lorem-ipsum-dolor-si-259,
+.lorem-ipsum-dolor-si-260 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  width: 642px;
+}
+
+.overlap-group-container-4,
+.overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 128px;
+  height: 404px;
+  min-width: 1301px;
+}
+
+.overlap-group-100,
+.overlap-group-101 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 348px;
+  padding: 110.9px 99px;
+}
+
+.testimonial-1-3,
+.testimonial-1-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.overlap-group1-38,
+.overlap-group1-39 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 349px;
+  padding: 110.9px 94px;
+}
+
+.testimonial-2-3,
+.testimonial-2-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.overlap-group2-32,
+.overlap-group2-33 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 348px;
+  padding: 110.9px 89px;
+}
+
+.testimonial-3-8,
+.testimonial-3-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 153px;
+}
+

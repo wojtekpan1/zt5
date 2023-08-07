@@ -1,0 +1,43 @@
+.others,
+.others-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  margin-right: 52.0px;
+  margin-top: 128px;
+  min-height: 355px;
+  width: 1272px;
+}
+
+.other-solutions-in-population-health-1,
+.other-solutions-in-population-health-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -7px;
+  margin-top: -1px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.overlap-group-53,
+.overlap-group-54 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  margin-left: -4px;
+  min-width: 348px;
+  padding: 105.1px 68px;
+}
+
+.catalyst-research-4,
+.catalyst-research-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 212px;
+  white-space: nowrap;
+}
+

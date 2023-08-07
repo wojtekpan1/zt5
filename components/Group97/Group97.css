@@ -1,0 +1,129 @@
+.group-97,
+.group-97-1,
+.group-97-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  margin-left: 7.0px;
+  margin-top: 256px;
+  min-height: 596px;
+  width: 1291px;
+}
+
+.flex-col-23,
+.flex-col-24,
+.flex-col-25 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  margin-right: 10.0px;
+  margin-top: -1px;
+  min-height: 122px;
+  width: 805px;
+}
+
+.our-clients-words-6,
+.our-clients-words-7,
+.our-clients-words-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 48px;
+  min-width: 354px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-104,
+.lorem-ipsum-dolor-si-105,
+.lorem-ipsum-dolor-si-106 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 48px;
+  text-align: center;
+  width: 805px;
+}
+
+.overlap-group-container,
+.overlap-group-container-1,
+.overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 404px;
+  margin-right: 6.0px;
+  min-width: 1291px;
+}
+
+.overlap-group-35,
+.overlap-group-36,
+.overlap-group-37 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 348px;
+  padding: 110.9px 99px;
+}
+
+.testimonial-1,
+.testimonial-1-1,
+.testimonial-1-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.overlap-group1-4,
+.overlap-group1-5,
+.overlap-group1-6 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  margin-left: 121px;
+  min-width: 349px;
+  padding: 110.9px 94px;
+}
+
+.testimonial-2,
+.testimonial-2-1,
+.testimonial-2-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.overlap-group2-5,
+.overlap-group2-6,
+.overlap-group2-7 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  margin-left: 125px;
+  min-width: 348px;
+  padding: 110.9px 89px;
+}
+
+.testimonial-3,
+.testimonial-3-1,
+.testimonial-3-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 153px;
+}
+

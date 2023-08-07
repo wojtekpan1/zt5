@@ -1,0 +1,27 @@
+.frame-107-10 {
+  align-items: flex-start;
+  background-color: var(--primarybeige);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 311px;
+  padding: 83px 260px;
+  position: absolute;
+  top: 280px;
+  width: 1394px;
+}
+
+.title-61 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 82px;
+}
+
+.lorem-ipsum-dolor-si-225 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  width: 785px;
+}
+

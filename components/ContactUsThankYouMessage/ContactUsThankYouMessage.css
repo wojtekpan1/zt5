@@ -1,0 +1,50 @@
+.contact-us-thank-you-message {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group {
+  height: 591px;
+  position: relative;
+}
+
+.inquiry {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.thank-you-your-inqu {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 1400px;
+}
+
+.group-111 {
+  height: 60px;
+  position: relative;
+  width: 287px;
+}
+

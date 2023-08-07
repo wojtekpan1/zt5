@@ -1,0 +1,115 @@
+.contact-info-5,
+.contact-info-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  min-height: 579px;
+  padding: 119px 0;
+  width: 1920px;
+}
+
+.contact-information-9,
+.contact-information-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 260px;
+  min-height: 54px;
+}
+
+.frame-91-9,
+.frame-91-10 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--primaryyellow);
+  border-radius: 20px;
+  display: flex;
+  height: 225px;
+  opacity: 0.9;
+  overflow: hidden;
+  width: 1400px;
+}
+
+.overlap-group-96,
+.overlap-group-97 {
+  height: 716px;
+  margin-left: 123px;
+  margin-top: -209px;
+  position: relative;
+  width: 1525px;
+}
+
+.group-21,
+.group-25 {
+  height: 716px;
+  left: 564px;
+  position: absolute;
+  top: 0;
+  width: 961px;
+}
+
+.frame-97-5,
+.frame-97-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 276px;
+  height: 77px;
+  left: 0;
+  min-width: 1125px;
+  position: absolute;
+  top: 283px;
+}
+
+.email-us-28,
+.email-us-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 77px;
+  width: 184px;
+}
+
+.email-us-29,
+.visit-us-13,
+.call-us-13,
+.email-us-33,
+.visit-us-14,
+.call-us-14 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 38px;
+}
+
+.xxxxxxmailcom-9,
+.address-23,
+.text-16,
+.xxxxxxmailcom-10,
+.address-24,
+.text-18 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+}
+
+.email-us-30,
+.email-us-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 77px;
+  width: 276px;
+}
+
+.email-us-31,
+.email-us-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 77px;
+  width: 117px;
+}
+

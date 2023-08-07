@@ -1,0 +1,22 @@
+.frame-3-60 {
+  align-items: flex-start;
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  margin-right: 1.0px;
+  margin-top: 59px;
+  min-width: 225px;
+  padding: 18px 22px;
+}
+
+.explore-our-solutions-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.frame-3-60.frame-3-62,
+.frame-3-60.frame-3-63 {
+  margin-top: 58px;
+}
+

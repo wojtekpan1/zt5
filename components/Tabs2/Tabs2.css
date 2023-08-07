@@ -1,0 +1,58 @@
+.tabs-6,
+.tabs-7,
+.tabs-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-top: 51px;
+  min-width: 1400px;
+  padding: 18px 80px;
+}
+
+.population-health-22,
+.population-health-23,
+.population-health-24 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 156px;
+  text-align: center;
+}
+
+.hospitals-clinics-7,
+.hospitals-clinics-8,
+.hospitals-clinics-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 193px;
+  min-height: 25px;
+  min-width: 169px;
+  text-align: center;
+}
+
+.physician-support-9,
+.physician-support-10,
+.physician-support-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 192px;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 157px;
+  text-align: center;
+}
+
+.patient-engagement-10,
+.patient-engagement-11,
+.patient-engagement-12 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 190px;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 174px;
+  text-align: center;
+}
+

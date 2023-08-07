@@ -1,0 +1,23 @@
+.group-96 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 2.0px;
+  min-height: 85px;
+  width: 472px;
+}
+
+.client-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+}
+
+.lorem-ipsum-dolor-si-70 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 44px;
+  width: 468px;
+}
+

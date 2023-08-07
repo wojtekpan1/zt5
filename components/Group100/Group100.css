@@ -1,0 +1,54 @@
+.group-100 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 365px;
+  margin-right: -59px;
+  margin-top: 94px;
+  min-width: 1429px;
+}
+
+.overlap-group3-5 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 39px;
+  display: flex;
+  flex-direction: column;
+  min-height: 365px;
+  padding: 60px 74px;
+  width: 1427px;
+}
+
+.want-a-tailored-solution-for-you-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-107 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 20px;
+  min-height: 87px;
+  width: 822px;
+}
+
+.contact-us-46 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 88px;
+  margin-top: 13px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.group-100.group-100-3 {
+  margin-top: 152px;
+}
+
+.group-100.group-100-4 {
+  margin-top: 74px;
+}
+

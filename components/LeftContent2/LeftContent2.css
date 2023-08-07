@@ -1,0 +1,56 @@
+.t-content-5-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 496px;
+  padding: 41px 0;
+  width: 667px;
+}
+
+.catalyst-5 {
+  letter-spacing: 0;
+  line-height: 52px;
+  white-space: nowrap;
+}
+
+.about-catalyst-s4-c-3,
+.how-can-it-help-you-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 50px;
+  min-height: 75px;
+  width: 587px;
+}
+
+.frame-115-3 {
+  align-items: center;
+  display: flex;
+  gap: 70px;
+  margin-top: 51px;
+  min-width: 453px;
+}
+
+.cta-32 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  min-width: 238px;
+  padding: 16.5px 50px;
+}
+
+.contact-us-116 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+
+.contact-us-117 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  min-height: 25px;
+  min-width: 95px;
+}
+

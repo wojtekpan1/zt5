@@ -1,0 +1,180 @@
+.solution-hovering {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  min-height: 688px;
+  padding: 117px 72px;
+  width: 1440px;
+}
+
+.group-68 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-height: 112px;
+  width: 646px;
+}
+
+.title-74 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 5.0px;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 237px;
+}
+
+.lorem-ipsum-dolor-si-264 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  min-height: 38px;
+  width: 642px;
+}
+
+.frame-container-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 43px;
+  min-width: 1291px;
+}
+
+.frame-16-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-height: 260px;
+  width: 328px;
+}
+
+.early-pathogen-recognition-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+}
+
+.frame-16-item-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.frame-58 {
+  align-items: flex-start;
+  display: flex;
+  gap: 31px;
+  min-width: 920px;
+}
+
+.group-71-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  min-width: 598px;
+}
+
+.overlap-group-124 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  min-width: 260px;
+  padding: 117px 71px;
+}
+
+.solution-1-74 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.flex-col-117 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  margin-top: 3px;
+  min-height: 207px;
+  width: 322px;
+}
+
+.group-67 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 138px;
+  width: 322px;
+}
+
+.lorem-ipsum-dolor-si-265 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 57px;
+  width: 318px;
+}
+
+.lorem-ipsum-dolor-si-266 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 318px;
+}
+
+.request-a-demo-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 22px;
+  min-height: 17px;
+}
+
+.overlap-group1-43 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  min-width: 130px;
+  padding: 116px 0;
+}
+
+.solution-2-33 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  text-align: center;
+  width: 125px;
+}
+
+.overlap-group2-37 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 113.9px 0;
+}
+
+.solution-2-34 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 130px;
+}
+

@@ -1,0 +1,123 @@
+.our-partners-02 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2137px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-93 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+}
+
+.logo-137 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-75 {
+  align-items: flex-start;
+  display: flex;
+  gap: 50px;
+  margin-left: 118px;
+  margin-top: 5.0px;
+  min-width: 677px;
+  position: relative;
+}
+
+.frame-4-59 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 195px;
+  padding: 0 9px;
+}
+
+.partners-clients-20 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-160 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-145 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 272px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.flex-row-94 {
+  align-items: flex-start;
+  display: flex;
+  gap: 404px;
+  height: 141px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  min-width: 1293px;
+}
+
+.flex-col-133 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 141px;
+  width: 649px;
+}
+
+.title-92 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-314 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.group-34-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 44px;
+  margin-top: 15px;
+  min-width: 240px;
+}
+
+.our-clients-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 183px;
+}
+
+.arrow-1-8 {
+  align-self: center;
+  height: 1px;
+  margin-top: 5.0px;
+  width: 49px;
+}
+

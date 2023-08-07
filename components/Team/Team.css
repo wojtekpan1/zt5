@@ -1,0 +1,109 @@
+.team {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-17 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-30 {
+  height: 591px;
+  position: relative;
+}
+
+.tabs-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 80px 259px 0px;
+  position: relative;
+  width: 1920px;
+}
+
+.tab-12 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: var(--primaryred);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 0px;
+  position: relative;
+  width: 334px;
+}
+
+.core-team,
+.advisors {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.tab-13 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: var(--greyslight);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 0px;
+  position: relative;
+  width: 334px;
+}
+
+.list-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.team-list {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 61px;
+  position: relative;
+}
+
+.frame-33 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 1400px;
+}
+
+.frame-29 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+}
+
+.rectangle-20-1 {
+  height: 276px;
+  position: relative;
+  width: 281px;
+}
+

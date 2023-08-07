@@ -1,0 +1,24 @@
+.cta-8 {
+  align-items: center;
+  background-color: var(--primaryred);
+  border-radius: 30px;
+  display: inline-flex;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  padding: 10px 50px;
+  position: relative;
+}
+
+.contact-us-35 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.cta-8.cta-12,
+.cta-8.cta-13 {
+  flex: 0 0 auto;
+}
+

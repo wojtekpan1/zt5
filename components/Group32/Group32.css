@@ -1,0 +1,60 @@
+.group-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  margin-left: 2px;
+  margin-top: 61px;
+  min-height: 28px;
+  width: 285px;
+}
+
+.flex-row-42 {
+  align-items: flex-start;
+  display: flex;
+  gap: 72px;
+  height: 24px;
+  min-width: 257px;
+}
+
+.core-team-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.advisors-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group-62 {
+  align-items: flex-start;
+  background-image: url(/static/img/line-4-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 281px;
+}
+
+.line-5-1 {
+  height: 1px;
+  width: 104px;
+}
+
+.group-32.group-32-1 {
+  left: 75px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 479px;
+}
+
+.group-32.group-32-2 {
+  margin-left: 80px;
+}
+

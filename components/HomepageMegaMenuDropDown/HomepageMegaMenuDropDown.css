@@ -1,0 +1,217 @@
+.homepage-mega-menu-drop-down {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5320px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-29 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-45 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-52 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.overlap-group4-4 {
+  height: 589px;
+  margin-top: 11px;
+  position: relative;
+  width: 1440px;
+}
+
+.explore-our-solutions-7 {
+  left: 629px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 325px;
+}
+
+.title-33 {
+  left: 368px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+}
+
+.rebuild-the-healthca-5 {
+  left: 327px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 220px;
+  width: 785px;
+}
+
+.dropdowns {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  left: 268px;
+  min-height: 491px;
+  padding: 20px 16px;
+  position: absolute;
+  top: 0;
+  width: 877px;
+}
+
+.flex-row-30 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 13.0px;
+  min-width: 816px;
+  position: relative;
+}
+
+.group-6-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 294px;
+  position: relative;
+  width: 413px;
+}
+
+.line-1-4 {
+  height: 322px;
+  margin-left: 49px;
+  width: 1px;
+}
+
+.cant-find-5 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 10px;
+  display: flex;
+  gap: 436px;
+  height: 82px;
+  min-width: 843px;
+  padding: 28px 19px;
+}
+
+.cant-find-what-you-need-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 246px;
+  white-space: nowrap;
+}
+
+.contact-us-53 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 22px;
+}
+
+.solutions-62 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 149px;
+  min-height: 561px;
+  position: relative;
+  width: 1333px;
+}
+
+.our-solutions-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 263px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-115 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: 26px;
+  min-height: 48px;
+  text-align: center;
+  width: 805px;
+}
+
+.frame-87-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 26px;
+  margin-left: 8px;
+  margin-top: 60px;
+  min-width: 1284px;
+  position: relative;
+}
+
+.overlap-group-42 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 0 85px;
+}
+
+.solution-1-59 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.overlap-group1-11 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 116px 84px;
+}
+
+.solution-3-58 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+

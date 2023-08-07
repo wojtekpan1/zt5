@@ -1,0 +1,33 @@
+.card-79 {
+  align-items: center;
+  background-color: var(--primarygreen);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  min-height: 334px;
+  padding: 60px 0;
+  width: 354px;
+}
+
+.lorem-ipsum-dolor-si-176 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 133px;
+  width: 314px;
+}
+
+.request-a-demo-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 5.0px;
+  min-height: 19px;
+  min-width: 108px;
+}
+
+.card-79.card-81 {
+  left: 334px;
+  position: absolute;
+  top: 0;
+}
+

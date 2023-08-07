@@ -1,0 +1,22 @@
+.read-more {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  margin-bottom: 2px;
+  position: relative;
+}
+
+.read-more-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.arrows-left-right {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+

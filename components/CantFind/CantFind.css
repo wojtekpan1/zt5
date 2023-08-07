@@ -1,0 +1,28 @@
+.cant-find-1,
+.cant-find-2,
+.cant-find-3,
+.cant-find-4 {
+  align-items: flex-start;
+  background-color: var(--primarybeige);
+  border-radius: 10px;
+  display: flex;
+  gap: 343px;
+  height: 82px;
+  margin-right: 17px;
+  min-width: 803px;
+  padding: 13px 24px;
+  position: relative;
+}
+
+.cant-find-what-you-need-1,
+.cant-find-what-you-need-2,
+.cant-find-what-you-need-3,
+.cant-find-what-you-need-4 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 27px;
+  min-width: 257px;
+}
+

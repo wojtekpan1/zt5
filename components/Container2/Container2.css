@@ -1,0 +1,55 @@
+.container-4,
+.container-5,
+.container-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content-21,
+.content-22,
+.content-23 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  position: relative;
+  width: 1400px;
+}
+
+.left-content-3,
+.left-content-4,
+.left-content-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+  position: relative;
+}
+
+.rebuild-healthcare-ecosystem,
+.rebuild-healthcare-ecosystem-1,
+.rebuild-healthcare-ecosystem-2 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.lorem-ipsum-dolor-si-17,
+.lorem-ipsum-dolor-si-18,
+.lorem-ipsum-dolor-si-19 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -18.00px;
+  position: relative;
+  width: 693px;
+}
+

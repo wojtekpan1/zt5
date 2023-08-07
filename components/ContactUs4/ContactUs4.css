@@ -1,0 +1,157 @@
+.contact-us-4-1 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1819px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-85 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  min-width: 1281px;
+}
+
+.logo-130 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-68 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  margin-top: 5.0px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-52 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-153 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-container-2 {
+  align-self: flex-end;
+  border-radius: 20px;
+  height: 42px;
+  margin-left: 191px;
+  position: relative;
+  width: 149px;
+}
+
+.contact-us-138 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.title-85 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 106px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-307 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.group-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 61px;
+  margin-left: 80px;
+  margin-top: 38px;
+  min-width: 513px;
+  position: relative;
+}
+
+.group-61 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 30px;
+  min-width: 262px;
+}
+
+.ellipse-container-38 {
+  align-self: center;
+  border-radius: 13.5px;
+  height: 27px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 27px;
+}
+
+.ellipse-21-1 {
+  background-color: var(--alto);
+  border-radius: 9.5px;
+  height: 19px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 19px;
+}
+
+.ellipse-22-1 {
+  border-radius: 13.5px;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.i-know-what-i-want {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 30px;
+  width: 226px;
+}
+
+.group-63-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 80px;
+  margin-top: 38px;
+  min-height: 363px;
+  position: relative;
+  width: 622px;
+}
+

@@ -1,0 +1,95 @@
+.header {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 276px;
+  justify-content: flex-end;
+  left: 260px;
+  position: absolute;
+  top: 44px;
+  width: 1400px;
+}
+
+.menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 51px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.frame {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.partners,
+.clients,
+.insights,
+.about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.caret-circle-down {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primarybeige);
+  border-radius: 40px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  justify-content: center;
+  padding: 20px 30px;
+  position: relative;
+}
+
+.contact-us-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.logo {
+  cursor: pointer;
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 214px;
+}
+
+.header.header-1,
+.header.header-10,
+.header.header-11 {
+  flex-shrink: 1;
+  left: unset;
+  position: relative;
+  top: unset;
+}
+
+.header.header-1 .logo,
+.header.header-10 .logo,
+.header.header-11 .logo {
+  cursor: unset;
+}
+
+.header.header-12 {
+  top: 46px;
+}
+

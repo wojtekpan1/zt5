@@ -1,0 +1,86 @@
+.container-27,
+.container-28,
+.container-29,
+.overview-2,
+.container-30 {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  height: 822px;
+  min-width: 1920px;
+  padding: 0 144px;
+}
+
+.ellipse-container-25,
+.ellipse-container-26,
+.ellipse-container-27,
+.ellipse-container-28,
+.ellipse-container-29 {
+  height: 548px;
+  margin-top: 34.0px;
+  position: relative;
+  width: 791px;
+}
+
+.ellipse-9-16,
+.ellipse-9-17,
+.ellipse-9-18,
+.ellipse-9-19,
+.ellipse-9-20 {
+  height: 548px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 548px;
+}
+
+.ellipse-10-16,
+.ellipse-10-17,
+.ellipse-10-18,
+.ellipse-10-19,
+.ellipse-10-20 {
+  height: 390px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 389px;
+}
+
+.left-content-15,
+.left-content-16,
+.left-content-17,
+.left-content-18,
+.left-content-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-bottom: 153.0px;
+  min-height: 429px;
+  width: 675px;
+}
+
+.rebuild-healthcare-ecosystem-6,
+.rebuild-healthcare-ecosystem-7,
+.rebuild-healthcare-ecosystem-8,
+.rebuild-healthcare-ecosystem-9,
+.rebuild-healthcare-ecosystem-10 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  min-height: 104px;
+}
+
+.lorem-ipsum-dolor-si-171,
+.lorem-ipsum-dolor-si-172,
+.lorem-ipsum-dolor-si-173,
+.lorem-ipsum-dolor-si-174,
+.lorem-ipsum-dolor-si-175 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 275px;
+  width: 693px;
+}
+

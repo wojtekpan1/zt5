@@ -1,0 +1,77 @@
+.container-7,
+.container-8,
+.container-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content-24,
+.content-25,
+.content-26 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 1400px;
+}
+
+.our-clients-words,
+.our-clients-words-1,
+.our-clients-words-2 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lorem-ipsum-dolor-si-23,
+.lorem-ipsum-dolor-si-24,
+.lorem-ipsum-dolor-si-25 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 1016px;
+}
+
+.caret-circle-left-1,
+.caret-circle-left-2,
+.caret-circle-left-3 {
+  height: 42px;
+  left: -52px;
+  position: absolute;
+  top: 380px;
+  width: 42px;
+}
+
+.caret-circle-right-6,
+.caret-circle-right-7,
+.caret-circle-right-8 {
+  height: 42px;
+  left: 1418px;
+  position: absolute;
+  top: 380px;
+  width: 42px;
+}
+
+.testimonial-list,
+.testimonial-list-1,
+.testimonial-list-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 1400px;
+}
+

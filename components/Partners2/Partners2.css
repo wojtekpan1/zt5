@@ -1,0 +1,135 @@
+.partners-91 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  margin-right: 39.0px;
+  margin-top: 117px;
+  min-height: 703px;
+  width: 1251px;
+}
+
+.group-38-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  justify-content: center;
+  min-height: 57px;
+  width: 515px;
+}
+
+.clients-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 108px;
+  height: 29px;
+  min-width: 511px;
+}
+
+.hospital-clients-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+  min-width: 183px;
+}
+
+.government-clients-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+}
+
+.overlap-group2-19 {
+  align-items: flex-start;
+  background-image: url(/static/img/line-2-8@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 511px;
+  padding: 0 1px;
+}
+
+.line-3-4 {
+  height: 1px;
+  width: 205px;
+}
+
+.group-container-1 {
+  height: 621px;
+  margin-left: 1px;
+  position: relative;
+  width: 1222px;
+}
+
+.overlap-group1-19 {
+  height: 621px;
+  left: 565px;
+  position: absolute;
+  top: 0;
+  width: 657px;
+}
+
+.ellipse-container-15 {
+  height: 621px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 594px;
+}
+
+.ellipse-9-9 {
+  background-color: var(--alto);
+  border-radius: 121.5px;
+  height: 243px;
+  left: 153px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.ellipse-13-2 {
+  background-color: var(--alto);
+  border-radius: 94px;
+  height: 188px;
+  left: 0;
+  position: absolute;
+  top: 222px;
+  width: 188px;
+}
+
+.ellipse-11-2 {
+  background-color: var(--cultured-pearl);
+  border-radius: 112px;
+  height: 224px;
+  left: 153px;
+  position: absolute;
+  top: 397px;
+  width: 224px;
+}
+
+.ellipse-12-2 {
+  background-color: var(--alto);
+  border-radius: 112px;
+  height: 224px;
+  left: 370px;
+  position: absolute;
+  top: 204px;
+  width: 224px;
+}
+
+.ellipse-10-9 {
+  background-color: var(--cultured-pearl);
+  border-radius: 94px;
+  height: 188px;
+  left: 469px;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+
+.partners-91.partners-92 {
+  align-self: unset;
+  margin-right: 35.0px;
+}
+

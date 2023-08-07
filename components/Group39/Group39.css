@@ -1,0 +1,39 @@
+.group-39-1,
+.group-39-2,
+.group-39-3,
+.group-39-4,
+.group-39-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  min-height: 151px;
+  position: absolute;
+  top: 57px;
+  width: 576px;
+}
+
+.worldclass-partners-2,
+.worldclass-partners-3,
+.worldclass-partners-4,
+.worldclass-partners-5,
+.worldclass-partners-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 72px;
+  width: 572px;
+}
+
+.lorem-ipsum-dolor-si-133,
+.lorem-ipsum-dolor-si-134,
+.lorem-ipsum-dolor-si-135,
+.lorem-ipsum-dolor-si-136,
+.lorem-ipsum-dolor-si-137 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 541px;
+}
+

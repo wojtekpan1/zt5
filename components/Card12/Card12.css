@@ -1,0 +1,30 @@
+.card-1-8 {
+  align-items: center;
+  background-color: var(--primaryyellow);
+  border-radius: 20px 0px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 334px;
+  opacity: 0.9;
+  padding: 65.5px 0;
+  width: 334px;
+}
+
+.bandaids {
+  height: 160px;
+  width: 160px;
+}
+
+.catalyst-value-solutions-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 293px;
+  text-align: center;
+}
+
+.card-1-8.card-1-9 {
+  border-radius: 20px;
+}
+

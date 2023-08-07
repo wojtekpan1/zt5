@@ -1,0 +1,109 @@
+.contact-us-u45-empty-form {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2942px;
+  position: relative;
+  width: 1920px;
+}
+
+.inquiry-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  min-height: 1233px;
+  padding: 119px 260px;
+  width: 1920px;
+}
+
+.place-an-inquiry-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 54px;
+  min-width: 331px;
+  text-align: center;
+}
+
+.form-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 76px;
+  min-height: 879px;
+  width: 633px;
+}
+
+.frame-90-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 759px;
+  width: 633px;
+}
+
+.group-58-7 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  gap: 215px;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 27.8px;
+}
+
+.what-are-you-looking-for-3 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 340px;
+}
+
+.caret-down-9 {
+  height: 20px;
+  margin-top: 1.0px;
+  width: 20px;
+}
+
+.overlap-group-93 {
+  align-items: flex-end;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 32.6px;
+}
+
+.name-27,
+.email-8,
+.phone-number-8,
+.comment-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 458px;
+}
+
+.overlap-group3-26 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+
+.contact-us-118 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 50px;
+  min-height: 25px;
+}
+

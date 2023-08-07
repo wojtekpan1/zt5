@@ -1,0 +1,27 @@
+.group-46-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 204px;
+  height: 30px;
+  min-width: 318px;
+  position: relative;
+}
+
+.sectra-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 30px;
+  text-align: right;
+  width: 98px;
+}
+
+.group-46-4.group-47-2 {
+  gap: 95px;
+  min-width: 317px;
+}
+
+.group-46-4.group-47-2 .sectra-4 {
+  width: 207px;
+}
+

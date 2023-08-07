@@ -1,0 +1,50 @@
+.frame-104-13,
+.frame-104-14,
+.frame-104-15,
+.frame-104-16 {
+  align-items: center;
+  display: flex;
+  gap: 3px;
+  margin-left: 73px;
+  margin-top: 106px;
+  min-width: 176px;
+  position: relative;
+}
+
+.icon-24,
+.icon-25,
+.icon-26,
+.icon-27 {
+  height: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  text-align: center;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.ghost-_breadcrumb_item-38,
+.ghost-_breadcrumb_item-39,
+.ghost-_breadcrumb_item-40,
+.ghost-_breadcrumb_item-41 {
+  align-items: flex-start;
+  background-color: #ffffff00;
+  border-radius: 4px;
+  display: flex;
+  height: 24px;
+  min-width: 101px;
+  padding: 0 8px;
+}
+
+.contact-us-67,
+.contact-us-68,
+.contact-us-69,
+.contact-us-70 {
+  letter-spacing: 0;
+  line-height: 160px;
+  margin-top: -2px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,10 @@
+.frame-3-64,
+.frame-3-65 {
+  align-items: flex-start;
+  display: flex;
+  gap: 54px;
+  height: 352px;
+  min-width: 1286px;
+  position: relative;
+}
+

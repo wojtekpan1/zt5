@@ -1,0 +1,32 @@
+.group-43-2 {
+  align-self: center;
+  height: 10px;
+  margin-top: 1.0px;
+  position: relative;
+  transform: rotate(1.57deg);
+  width: 20px;
+}
+
+.line-6-2 {
+  height: 10px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-1.57deg);
+  width: 10px;
+}
+
+.line-7-2 {
+  height: 10px;
+  left: 5px;
+  position: absolute;
+  top: -5px;
+  transform: rotate(-1.57deg);
+  width: 10px;
+}
+
+.group-43-2.group-43-3 {
+  margin-bottom: 2.0px;
+  margin-top: unset;
+}
+

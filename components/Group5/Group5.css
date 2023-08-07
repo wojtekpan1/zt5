@@ -1,0 +1,24 @@
+.group-5-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 51px;
+  width: 417px;
+}
+
+.physician-support-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: -1px;
+  min-height: 22px;
+}
+
+.lorem-ipsum-dolor-si-120 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+

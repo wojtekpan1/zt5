@@ -1,0 +1,32 @@
+.group-69-5,
+.group-69-6,
+.group-69-7 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  margin-left: 80px;
+  margin-top: 30px;
+  min-width: 624px;
+}
+
+.overlap-group3-31,
+.overlap-group3-32,
+.overlap-group3-33 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 622px;
+  padding: 29px 32px;
+}
+
+.comment-9,
+.comment-10,
+.comment-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 450px;
+}
+

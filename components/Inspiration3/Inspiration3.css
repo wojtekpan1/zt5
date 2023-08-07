@@ -1,0 +1,117 @@
+.inspiration2 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  gap: 64px;
+  height: 3401px;
+  padding: 44px 59px;
+  width: 1920px;
+}
+
+.flex-col-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1px;
+  min-height: 3158px;
+  width: 851px;
+}
+
+.title-22 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 51px;
+}
+
+.screenshot-2022-12-07-at-127-1 {
+  height: 905px;
+  margin-left: 2px;
+  margin-top: 90px;
+  object-fit: cover;
+  width: 849px;
+}
+
+.screenshot-2022-12-07-at-113-1 {
+  height: 661px;
+  margin-left: 2px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 849px;
+}
+
+.screenshot-2022-12-07-at-115-1 {
+  height: 637px;
+  margin-left: 2px;
+  margin-top: 60px;
+  object-fit: cover;
+  width: 849px;
+}
+
+.overlap-group-31 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 27px;
+  height: 635px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  margin-top: 60px;
+  min-width: 849px;
+  padding: 184px 171px;
+}
+
+.rectangle-3 {
+  background-color: var(--blue-stone);
+  border-radius: 100px;
+  height: 25px;
+  width: 25px;
+}
+
+.rectangle-1 {
+  background-color: var(--pink-flamingo);
+  border-radius: 100px;
+  height: 25px;
+  width: 25px;
+}
+
+.flex-col-19 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 3159px;
+  width: 886px;
+}
+
+.new_act-logo-v5-1-4 {
+  height: 43px;
+  object-fit: cover;
+  width: 177px;
+}
+
+.screenshot-2022-12-07-at-128-1 {
+  height: 905px;
+  margin-top: 99px;
+  width: 886px;
+}
+
+.screenshot-2022-12-07-at-115-2 {
+  height: 661px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 886px;
+}
+
+.screenshot-2022-12-07-at-105-1 {
+  height: 637px;
+  margin-top: 60px;
+  width: 886px;
+}
+
+.screenshot-2022-12-07-at-112-1 {
+  height: 635px;
+  margin-top: 60px;
+  width: 886px;
+}
+

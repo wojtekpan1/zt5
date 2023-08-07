@@ -1,0 +1,31 @@
+.dropdowns3 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  border-radius: 20px;
+  display: flex;
+  height: 443px;
+  min-width: 877px;
+  overflow-x: hidden;
+  padding: 20px 24px;
+  position: relative;
+}
+
+.group-6-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: 13px;
+  margin-top: 14px;
+  min-height: 375px;
+  position: relative;
+  width: 413px;
+}
+
+.line-1-10 {
+  height: 402px;
+  margin-left: 49px;
+  width: 1px;
+}
+

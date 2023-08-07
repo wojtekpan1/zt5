@@ -1,0 +1,68 @@
+.frame-3-1,
+.frame-3-2,
+.frame-3-3,
+.frame-3-4,
+.frame-3-5,
+.frame-3-6,
+.frame-3-7,
+.frame-3-8,
+.frame-3-9,
+.frame-3-10,
+.frame-3-11,
+.frame-3-12,
+.frame-3-13,
+.frame-3-14,
+.frame-3-15,
+.frame-3-16,
+.frame-3-17 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.solutions,
+.solutions-1,
+.solutions-2,
+.solutions-3,
+.solutions-4,
+.solutions-5,
+.solutions-6,
+.solutions-7,
+.solutions-8,
+.solutions-9,
+.solutions-10,
+.solutions-11,
+.solutions-12,
+.solutions-13,
+.solutions-14,
+.solutions-15,
+.solutions-16 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.caret-circle-down-17,
+.caret-circle-down-18,
+.caret-circle-down-19,
+.caret-circle-down-20,
+.caret-circle-down-21,
+.caret-circle-down-22,
+.caret-circle-down-23,
+.caret-circle-down-24,
+.caret-circle-down-25,
+.caret-circle-down-26,
+.caret-circle-down-27,
+.caret-circle-down-28,
+.caret-circle-down-29,
+.caret-circle-down-30,
+.caret-circle-down-31,
+.caret-circle-down-32,
+.caret-circle-down-33 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+

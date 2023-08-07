@@ -1,0 +1,152 @@
+.contact-info,
+.contact-info-1,
+.contact-info-2,
+.contact-info-3,
+.contact-info-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.contact-information,
+.contact-information-1,
+.contact-information-2,
+.contact-information-3,
+.contact-information-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-91,
+.frame-91-1,
+.frame-91-2,
+.frame-91-3,
+.frame-91-4 {
+  background-color: var(--primaryyellow);
+  border-radius: 20px;
+  height: 225px;
+  opacity: 0.9;
+  overflow: hidden;
+  position: relative;
+  width: 1400px;
+}
+
+.overlap-group-1,
+.overlap-group-2,
+.overlap-group-3,
+.overlap-group-4,
+.overlap-group-5 {
+  height: 225px;
+  left: 123px;
+  position: relative;
+  width: 1277px;
+}
+
+.group,
+.group-1,
+.group-2,
+.group-3,
+.group-4 {
+  height: 225px;
+  left: 564px;
+  position: absolute;
+  top: 0;
+  width: 713px;
+}
+
+.frame-97,
+.frame-97-1,
+.frame-97-2,
+.frame-97-3,
+.frame-97-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 280px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+}
+
+.email-us,
+.email-us-4,
+.email-us-8,
+.email-us-12,
+.email-us-16 {
+  height: 77px;
+  position: relative;
+  width: 184px;
+}
+
+.xxxxxxmailcom,
+.address,
+.text-1,
+.xxxxxxmailcom-1,
+.address-1,
+.text-3,
+.xxxxxxmailcom-2,
+.address-2,
+.text-4,
+.xxxxxxmailcom-3,
+.address-3,
+.text-5,
+.xxxxxxmailcom-4,
+.address-4,
+.text-7 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+}
+
+.email-us-1,
+.visit-us,
+.call-us,
+.email-us-5,
+.visit-us-1,
+.call-us-1,
+.email-us-9,
+.visit-us-2,
+.call-us-2,
+.email-us-13,
+.visit-us-3,
+.call-us-3,
+.email-us-17,
+.visit-us-4,
+.call-us-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.email-us-2,
+.email-us-6,
+.email-us-10,
+.email-us-14,
+.email-us-18 {
+  height: 77px;
+  position: relative;
+  width: 276px;
+}
+
+.email-us-3,
+.email-us-7,
+.email-us-11,
+.email-us-15,
+.email-us-19 {
+  height: 77px;
+  margin-right: -4.00px;
+  position: relative;
+  width: 117px;
+}
+

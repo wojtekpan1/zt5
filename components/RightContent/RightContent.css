@@ -1,0 +1,44 @@
+.right-content,
+.right-content-1,
+.right-content-2,
+.right-content-3 {
+  flex: 1;
+  flex-grow: 1;
+  height: 582px;
+  position: relative;
+}
+
+.ellipse-container,
+.ellipse-container-1,
+.ellipse-container-2,
+.ellipse-container-3 {
+  height: 548px;
+  position: relative;
+  top: 34px;
+  width: 812px;
+}
+
+.ellipse-9,
+.ellipse-9-1,
+.ellipse-9-2,
+.ellipse-9-3 {
+  height: 548px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 548px;
+}
+
+.ellipse-10,
+.ellipse-10-1,
+.ellipse-10-2,
+.ellipse-10-3 {
+  height: 432px;
+  left: 381px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 431px;
+}
+

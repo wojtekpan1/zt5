@@ -1,0 +1,72 @@
+.testimonial-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-right: 8.0px;
+  margin-top: 120px;
+  min-height: 335px;
+  width: 1272px;
+}
+
+.words-from-our-partners-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+}
+
+.frame-42-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 114px;
+  min-width: 1272px;
+}
+
+.overlap-group-130 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 348px;
+  padding: 110.9px 99px;
+}
+
+.testimonial-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.overlap-group2-40 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 257px;
+  justify-content: flex-end;
+  min-width: 348px;
+  padding: 111px 75px;
+}
+
+.testimonial-3-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.testimonial-18.testimonial-19,
+.testimonial-18.testimonial-20 {
+  margin-top: 83px;
+}
+
+.testimonial-18.testimonial-21 {
+  margin-top: 115px;
+}
+

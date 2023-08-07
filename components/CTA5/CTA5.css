@@ -1,0 +1,34 @@
+.cta-21,
+.cta-22,
+.cta-23,
+.cta-24,
+.cta-25,
+.cta-26,
+.cta-27,
+.cta-28,
+.cta-29,
+.cta-30,
+.cta-31 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  min-width: 191px;
+  padding: 16.5px 50px;
+}
+
+.contact-us-97,
+.contact-us-98,
+.contact-us-99,
+.contact-us-100,
+.contact-us-101,
+.contact-us-96,
+.contact-us-102,
+.contact-us-103,
+.contact-us-104 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+

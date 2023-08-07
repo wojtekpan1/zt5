@@ -1,0 +1,91 @@
+.contact-us-02 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1512px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-83 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  min-width: 1281px;
+}
+
+.logo-128 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-66 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  margin-top: 5.0px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-50 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-151 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-container {
+  align-self: flex-end;
+  border-radius: 20px;
+  height: 42px;
+  margin-left: 191px;
+  position: relative;
+  width: 149px;
+}
+
+.contact-us-136 {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.title-83 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 106px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-305 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+

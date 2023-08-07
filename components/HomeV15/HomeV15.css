@@ -1,0 +1,150 @@
+.homeu95v1 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 7706px;
+  position: relative;
+  width: 1920px;
+}
+
+.container-42 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1017px;
+  padding: 119px 0;
+  position: relative;
+  width: 1920px;
+}
+
+.our-solutions-6 {
+  letter-spacing: 0;
+  line-height: 52px;
+  min-width: 346px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-203 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 50px;
+  min-height: 66px;
+  text-align: center;
+  width: 1016px;
+}
+
+.tabs-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-top: 51px;
+  min-width: 1400px;
+  padding: 18px 80px;
+}
+
+.population-health-25 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 164px;
+  text-align: center;
+}
+
+.hospitals-clinics-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 192px;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 163px;
+  text-align: center;
+}
+
+.physician-support-12 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 195px;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 157px;
+  text-align: center;
+}
+
+.patient-engagement-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 190px;
+  margin-top: 1px;
+  min-height: 25px;
+  min-width: 174px;
+  text-align: center;
+}
+
+.cards-49 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+  min-width: 1396px;
+}
+
+.card-1-10 {
+  align-items: flex-start;
+  display: flex;
+  height: 334px;
+  min-width: 688px;
+  position: relative;
+}
+
+.card-1-11 {
+  align-items: center;
+  background-color: var(--primaryyellow);
+  border-radius: 20px 0px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 334px;
+  opacity: 0.9;
+  padding: 65.5px 0;
+  width: 334px;
+}
+
+.bandaids-2,
+.flask-7 {
+  height: 160px;
+  width: 160px;
+}
+
+.catalyst-s4-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 132px;
+  text-align: center;
+}
+
+.card-2-6 {
+  align-items: center;
+  background-color: var(--primaryyellow);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 334px;
+  opacity: 0.9;
+  padding: 65.5px 0;
+  width: 334px;
+}
+
+.catalyst-research-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  min-width: 217px;
+  text-align: center;
+}
+

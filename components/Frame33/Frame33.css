@@ -1,0 +1,15 @@
+.frame-3-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+}
+
+.rectangle-20-2 {
+  height: 276px;
+  position: relative;
+  width: 281px;
+}
+

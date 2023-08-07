@@ -1,0 +1,151 @@
+.population-health-contact-popup {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 4245px;
+  min-width: 1920px;
+}
+
+.overlap-group4-19 {
+  height: 4247px;
+  margin-top: -2px;
+  position: relative;
+  width: 1920px;
+}
+
+.population-health-36 {
+  align-items: flex-end;
+  background-color: var(--greyslight-beige);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 4245px;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+
+.overlap-group-83 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.solution-53 {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  height: 736px;
+  min-width: 1920px;
+  padding: 0 260px;
+  position: relative;
+}
+
+.rectangle-12752-1 {
+  background-color: var(--greysdark);
+  height: 4247px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.popup-4 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border-radius: 30px;
+  box-shadow: 0px 4px 80px #0625614c;
+  display: flex;
+  gap: 286px;
+  height: 1183px;
+  left: 546px;
+  overflow: hidden;
+  padding: 30px 0;
+  position: absolute;
+  top: 322px;
+  width: 828px;
+}
+
+.frame-184953-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+  margin-left: 96px;
+  min-height: 1103px;
+  width: 637px;
+}
+
+.contact-us-114 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 65px;
+  min-width: 267px;
+  text-align: center;
+}
+
+.form-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 76px;
+  min-height: 998px;
+  width: 633px;
+}
+
+.frame-90-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 878px;
+  position: relative;
+  width: 633px;
+}
+
+.overlap-group-82 {
+  align-items: flex-end;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 32.6px;
+}
+
+.name-23,
+.email-7,
+.phone-number-7,
+.comment-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 458px;
+}
+
+.overlap-group3-23 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+
+.contact-us-115 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 50px;
+  min-height: 25px;
+}
+
+.icon-close-5 {
+  height: 32px;
+  width: 32px;
+}
+

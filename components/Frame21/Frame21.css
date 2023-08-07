@@ -1,0 +1,76 @@
+.frame-21,
+.frame-21-1,
+.frame-21-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 123px;
+  margin-top: 71px;
+  min-width: 1291px;
+}
+
+.overlap-group-38,
+.overlap-group-39,
+.overlap-group-40 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 339px;
+  min-width: 348px;
+  padding: 146px 137px;
+}
+
+.news-1-1,
+.news-1-2,
+.news-1-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
+.overlap-group1-7,
+.overlap-group1-8,
+.overlap-group1-9 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 339px;
+  min-width: 349px;
+  padding: 146px 136px;
+}
+
+.news-2,
+.news-2-1,
+.news-2-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.overlap-group2-8,
+.overlap-group2-9,
+.overlap-group2-10 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 339px;
+  min-width: 348px;
+  padding: 146px 135px;
+}
+
+.news-3,
+.news-3-1,
+.news-3-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+

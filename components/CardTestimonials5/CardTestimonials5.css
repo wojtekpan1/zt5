@@ -1,0 +1,76 @@
+.card-testimonials-12,
+.card-testimonials-13 {
+  align-items: flex-end;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 409px;
+  padding: 39px 29px;
+  width: 332px;
+}
+
+.flex-row-57,
+.flex-row-58 {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 90px;
+  min-width: 273px;
+}
+
+.flex-col-87,
+.flex-col-88 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 90px;
+  width: 169px;
+}
+
+.name-21,
+.name-22 {
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-bottom: -92px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.ceo-pharma-co-12,
+.ceo-pharma-co-13 {
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-bottom: -95px;
+  margin-top: 5px;
+  min-height: 15px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.super-easy-process-12,
+.super-easy-process-13 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 30px;
+  white-space: nowrap;
+}
+
+.image-28-12,
+.image-28-13 {
+  height: 19px;
+  margin-top: 5px;
+  object-fit: cover;
+  width: 93px;
+}
+
+.text0-3,
+.text0-i231848 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 180px;
+  position: relative;
+  width: 273px;
+}
+

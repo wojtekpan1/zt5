@@ -1,0 +1,30 @@
+.cant-find-6,
+.cant-find-7,
+.cant-find-8,
+.cant-find-9,
+.cant-find-10 {
+  align-items: flex-start;
+  background-color: var(--primarybeige);
+  border-radius: 10px;
+  display: flex;
+  gap: 343px;
+  height: 82px;
+  margin-right: 13px;
+  min-width: 803px;
+  padding: 13px 24px;
+  position: relative;
+}
+
+.cant-find-what-you-need-6,
+.cant-find-what-you-need-7,
+.cant-find-what-you-need-8,
+.cant-find-what-you-need-9,
+.cant-find-what-you-need-10 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 27px;
+  min-width: 257px;
+}
+

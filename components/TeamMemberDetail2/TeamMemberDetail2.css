@@ -1,0 +1,80 @@
+.team-member-detail-2-1 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  border-radius: 20px;
+  display: flex;
+  height: 612px;
+  min-width: 1201px;
+  overflow-x: hidden;
+  padding: 15px 19px;
+}
+
+.flex-col-92 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 62px;
+  margin-top: 45px;
+  min-height: 458px;
+  width: 595px;
+}
+
+.name-26 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 41px;
+}
+
+.position-8 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 4px;
+  white-space: nowrap;
+}
+
+.group-74-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 27px;
+  min-height: 304px;
+  width: 595px;
+}
+
+.lorem-ipsum-dolor-si-244 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  min-height: 134px;
+  width: 591px;
+}
+
+.lorem-ipsum-dolor-si-245 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 130px;
+  width: 591px;
+}
+
+.linkedin-17 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 38px;
+  white-space: nowrap;
+}
+
+.rectangle-20-10 {
+  height: 369px;
+  margin-left: 65px;
+  margin-top: 124px;
+  width: 376px;
+}
+
+.x-18 {
+  height: 32px;
+  margin-left: 33px;
+  width: 32px;
+}
+

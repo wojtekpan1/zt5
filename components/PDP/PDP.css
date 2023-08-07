@@ -1,0 +1,305 @@
+.pdp {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3629px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-71 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  min-width: 1281px;
+}
+
+.logo-122 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-60 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  margin-top: 5.0px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-44 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-145 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-127 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 218px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-77 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 77px;
+  margin-top: 171px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-281 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 72px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.partners-126 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 83px;
+  margin-left: 1.0px;
+  margin-top: 116px;
+  min-height: 557px;
+  width: 1279px;
+}
+
+.rectangle-24 {
+  background-color: var(--alto);
+  border-radius: 39px;
+  height: 365px;
+  margin-left: -146px;
+  margin-top: -423px;
+  width: 1425px;
+}
+
+.flex-row-72 {
+  align-items: center;
+  display: flex;
+  gap: 157px;
+  min-width: 1279px;
+}
+
+.flex-col-124 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  margin-bottom: 2.0px;
+  min-height: 396px;
+  width: 545px;
+}
+
+.catalyst-s4-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 73px;
+}
+
+.group-39-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  min-height: 275px;
+  width: 545px;
+}
+
+.lorem-ipsum-dolor-si-282 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 116px;
+  width: 541px;
+}
+
+.lorem-ipsum-dolor-si-283 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 116px;
+  width: 541px;
+}
+
+.rectangle-23-2 {
+  background-color: var(--alto);
+  border-radius: 39px;
+  height: 532px;
+  width: 577px;
+}
+
+.group-52-1 {
+  align-items: center;
+  border-radius: 39px;
+  display: flex;
+  gap: 125px;
+  margin-right: 40.0px;
+  margin-top: 141px;
+  min-width: 1246px;
+}
+
+.flex-col-125 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.0px;
+  min-height: 395px;
+  width: 542px;
+}
+
+.catalyst-research-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 73px;
+  width: 536px;
+}
+
+.lorem-ipsum-dolor-si-284 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 47px;
+  min-height: 116px;
+  text-align: right;
+  width: 541px;
+}
+
+.lorem-ipsum-dolor-si-285 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 43px;
+  min-height: 116px;
+  text-align: right;
+  width: 541px;
+}
+
+.group-53 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  margin-right: 100.0px;
+  margin-top: 95px;
+  min-height: 266px;
+  width: 1192px;
+}
+
+.what-does-this-solution-solve {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 73px;
+  width: 1182px;
+}
+
+.flex-row-73 {
+  align-items: flex-start;
+  display: flex;
+  gap: 93px;
+  height: 149px;
+  margin-left: 4px;
+  min-width: 607px;
+}
+
+.flex-col-123 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  min-height: 149px;
+  width: 257px;
+}
+
+.catalyst-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+}
+
+.lorem-ipsum-dolor-si-280 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 76px;
+  width: 255px;
+}
+
+.overlap-group3-29 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--alto);
+  border-radius: 39px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  margin-right: -65px;
+  margin-top: 153px;
+  min-height: 365px;
+  padding: 52px 140px;
+  width: 1425px;
+}
+
+.want-a-tailored-solution-for-you-17 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4px;
+  min-height: 73px;
+  min-width: 947px;
+}
+
+.flex-row-74 {
+  align-items: center;
+  display: flex;
+  gap: 225px;
+  height: 87px;
+  min-width: 1141px;
+}
+
+.contact-us-128 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.lorem-ipsum-dolor-si-286 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 87px;
+  text-align: right;
+  width: 822px;
+}
+

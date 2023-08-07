@@ -1,0 +1,28 @@
+.flex-container-i222129-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 220px;
+  margin-top: 14px;
+  position: relative;
+  width: 273px;
+}
+
+.text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.flex-container-i222129-1.flex-container-i182234,
+.flex-container-i222129-1.flex-container-i184889,
+.flex-container-i222129-1.flex-container-i184896,
+.flex-container-i222129-1.flex-container-i1871362 {
+  left: 30px;
+  margin-top: unset;
+  position: absolute;
+  top: 149px;
+}
+

@@ -1,0 +1,62 @@
+.frame-88,
+.frame-88-1,
+.frame-88-2,
+.frame-88-3,
+.frame-88-4,
+.frame-88-5,
+.frame-88-6,
+.frame-88-7,
+.frame-88-8,
+.frame-88-9,
+.frame-88-10,
+.frame-88-11,
+.frame-88-12,
+.frame-88-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.title,
+.title-1,
+.title-2,
+.title-3,
+.title-4,
+.title-5,
+.title-6,
+.title-7,
+.title-8,
+.title-9,
+.title-10,
+.title-11,
+.title-12,
+.title-13 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.lorem-ipsum-dolor-si,
+.lorem-ipsum-dolor-si-1,
+.lorem-ipsum-dolor-si-2,
+.lorem-ipsum-dolor-si-3,
+.lorem-ipsum-dolor-si-4,
+.lorem-ipsum-dolor-si-5,
+.lorem-ipsum-dolor-si-6,
+.lorem-ipsum-dolor-si-7,
+.lorem-ipsum-dolor-si-8,
+.lorem-ipsum-dolor-si-9,
+.lorem-ipsum-dolor-si-10,
+.infectious-diseases,
+.lorem-ipsum-dolor-si-11,
+.lorem-ipsum-dolor-si-12 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 785px;
+}
+

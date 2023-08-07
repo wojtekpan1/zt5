@@ -1,0 +1,120 @@
+.contact-us-solution-selected-1 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-3 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-9 {
+  height: 591px;
+  position: relative;
+}
+
+.inquiry-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.place-an-inquiry {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.form {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-90 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.group-71 {
+  background-color: var(--greyswhite);
+  border: 2px solid;
+  border-color: var(--primarybeige);
+  border-radius: 20px;
+  height: 89px;
+  position: relative;
+  width: 633px;
+}
+
+.group-59 {
+  align-items: center;
+  display: flex;
+  gap: 117px;
+  height: 33px;
+  left: 26px;
+  min-width: 577px;
+  position: relative;
+  top: 28px;
+}
+
+.catalyst-s4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 438px;
+}
+
+.caret-down {
+  height: 20px;
+  margin-bottom: 3.0px;
+  width: 20px;
+}
+
+.group-69 {
+  height: 283px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 635px;
+}
+
+.overlap-group3-3 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 2px solid;
+  border-color: var(--primarybeige);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 633px;
+  padding: 28px 31px;
+}
+
+.lorem-ipsum-dolor-si-43 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 132px;
+  width: 550px;
+}
+

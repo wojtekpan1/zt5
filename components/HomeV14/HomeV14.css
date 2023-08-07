@@ -1,0 +1,55 @@
+.home-v1-3 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 7706px;
+  position: relative;
+  width: 1920px;
+}
+
+.container-22 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1017px;
+  padding: 119px 0;
+  position: relative;
+  width: 1920px;
+}
+
+.our-solutions-5 {
+  letter-spacing: 0;
+  line-height: 52px;
+  min-width: 346px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-165 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 50px;
+  min-height: 66px;
+  text-align: center;
+  width: 1016px;
+}
+
+.cards-36 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+  min-width: 1396px;
+  position: relative;
+}
+
+.card-1-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 334px;
+  min-width: 688px;
+  position: relative;
+}
+

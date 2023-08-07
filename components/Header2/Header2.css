@@ -1,0 +1,46 @@
+.header-3,
+.header-4 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--cultured-pearl);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 22px;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 56px;
+  min-height: 308px;
+  padding: 45px 73px;
+  width: 1360px;
+}
+
+.population-health-19,
+.population-health-20 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  margin-top: 12px;
+  min-height: 24px;
+  width: 646px;
+}
+
+.flex-container-22206,
+.flex-container-561287 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 160px;
+  position: relative;
+  width: 1068px;
+}
+
+.text-12,
+.text-13 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 72px;
+  position: relative;
+}
+

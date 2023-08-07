@@ -1,0 +1,43 @@
+.group-58,
+.group-58-1,
+.group-7 {
+  background-color: var(--greyswhite);
+  border: 2px solid;
+  border-color: var(--primarybeige);
+  border-radius: 20px;
+  height: 89px;
+  position: relative;
+  width: 633px;
+}
+
+.group-59-2,
+.group-59-3,
+.group-59-1 {
+  align-items: center;
+  display: flex;
+  gap: 215px;
+  height: 33px;
+  left: 26px;
+  min-width: 577px;
+  position: relative;
+  top: 28px;
+}
+
+.solution,
+.solution-7,
+.solution-8,
+.catalyst-s4-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 340px;
+}
+
+.caret-down-2,
+.caret-down-3,
+.caret-down-1 {
+  height: 20px;
+  margin-bottom: 3.0px;
+  width: 20px;
+}
+

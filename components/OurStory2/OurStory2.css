@@ -1,0 +1,357 @@
+.our-story-3-1 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3200px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-45 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-62 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-65 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.flex-row-46 {
+  align-items: center;
+  display: flex;
+  gap: 422px;
+  height: 219px;
+  margin-right: 1.0px;
+  margin-top: 106px;
+  min-width: 1293px;
+}
+
+.flex-col-54 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 219px;
+  width: 646px;
+}
+
+.frame-104-12 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  min-width: 267px;
+  position: relative;
+}
+
+.ghost-_breadcrumb_item-36 {
+  align-items: flex-start;
+  background-color: #ffffff00;
+  border-radius: 4px;
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  min-width: 98px;
+  padding: 0 6px;
+}
+
+.icon-23 {
+  align-self: center;
+  height: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  text-align: center;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.our-2 {
+  letter-spacing: 0;
+  line-height: 160px;
+  margin-top: -2px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.ghost-_breadcrumb_item-37 {
+  align-items: flex-start;
+  background-color: #ffffff00;
+  border-radius: 4px;
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  min-width: 102px;
+  padding: 0 6.5px;
+}
+
+.title-46 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-156 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.group-34-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 44px;
+  margin-top: 11.0px;
+  min-width: 225px;
+}
+
+.our-team-60 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 158px;
+}
+
+.arrow-1-4 {
+  align-self: center;
+  height: 1px;
+  margin-top: 5.0px;
+  width: 49px;
+}
+
+.mission-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 251px;
+  height: 309px;
+  justify-content: flex-end;
+  margin-left: 8.0px;
+  margin-top: 150px;
+  min-width: 1288px;
+}
+
+.ellipse-container-17 {
+  height: 294px;
+  position: relative;
+  width: 474px;
+}
+
+.ellipse-4-6 {
+  background-color: var(--greyslight);
+  border-radius: 147px;
+  height: 294px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.ellipse-5-6 {
+  background-color: var(--cultured-pearl);
+  border-radius: 128.5px;
+  height: 257px;
+  left: 217px;
+  position: absolute;
+  top: 33px;
+  width: 257px;
+}
+
+.flex-col-55 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  min-height: 294px;
+  width: 583px;
+}
+
+.our-vision-mission-1,
+.map {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+}
+
+.group-11-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 219px;
+  width: 583px;
+}
+
+.lorem-ipsum-dolor-si-157 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 57px;
+  width: 577px;
+}
+
+.lorem-ipsum-dolor-si-153 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 577px;
+}
+
+.frame-45-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.0px;
+  margin-top: 150px;
+  min-height: 436px;
+  width: 1299px;
+}
+
+.our-journey {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 208px;
+}
+
+.lorem-ipsum-dolor-si-154 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 30px;
+  min-height: 38px;
+  text-align: center;
+  width: 642px;
+}
+
+.group-40-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 7.0px;
+  margin-top: 101px;
+  min-height: 224px;
+  width: 1306px;
+}
+
+.lorem-ipsum-dolor-si-container-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  margin-left: 8px;
+  margin-top: -1px;
+  min-width: 1249px;
+}
+
+.lorem-ipsum-dolor-si-155 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 176px;
+}
+
+.lorem-ipsum-dolor-si-158 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 183px;
+  min-height: 57px;
+  width: 176px;
+}
+
+.lorem-ipsum-dolor-si-159 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 176px;
+  min-height: 57px;
+  width: 176px;
+}
+
+.lorem-ipsum-dolor-si-160 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 186px;
+  min-height: 57px;
+  width: 176px;
+}
+
+.overlap-group-64 {
+  height: 28px;
+  margin-top: 47px;
+  position: relative;
+  width: 1292px;
+}
+
+.arrow-2-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 1292px;
+}
+
+.lorem-ipsum-dolor-si-container-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 183px;
+  height: 57px;
+  margin-right: 38.0px;
+  margin-top: 35px;
+  min-width: 894px;
+}
+
+.frame-46-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 150px;
+  min-height: 600px;
+  width: 1079px;
+}
+
+.our-presence {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 30.0px;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 239px;
+}
+
+.overlap-group-65 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 408px;
+  margin-top: 81px;
+  min-width: 1067px;
+  padding: 181px 488px;
+}
+

@@ -1,0 +1,87 @@
+.container-23,
+.container-24,
+.container-25,
+.overview-1,
+.container-26 {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  height: 822px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 0 126px;
+}
+
+.left-content-10,
+.left-content-11,
+.left-content-12,
+.left-content-13,
+.left-content-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-bottom: 153.0px;
+  min-height: 429px;
+  width: 693px;
+}
+
+.what-is-value-based-healthcare-6,
+.what-is-value-based-healthcare-7,
+.what-is-value-based-healthcare-8,
+.what-is-value-based-healthcare-9,
+.what-is-value-based-healthcare-10 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  min-height: 104px;
+}
+
+.lorem-ipsum-dolor-si-166,
+.lorem-ipsum-dolor-si-167,
+.lorem-ipsum-dolor-si-168,
+.lorem-ipsum-dolor-si-169,
+.lorem-ipsum-dolor-si-170 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 275px;
+  width: 693px;
+}
+
+.ellipse-container-20,
+.ellipse-container-21,
+.ellipse-container-22,
+.ellipse-container-23,
+.ellipse-container-24 {
+  height: 548px;
+  margin-top: 34.0px;
+  position: relative;
+  width: 791px;
+}
+
+.ellipse-9-11,
+.ellipse-9-12,
+.ellipse-9-13,
+.ellipse-9-14,
+.ellipse-9-15 {
+  height: 548px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 548px;
+}
+
+.ellipse-10-11,
+.ellipse-10-12,
+.ellipse-10-13,
+.ellipse-10-14,
+.ellipse-10-15 {
+  height: 390px;
+  left: 402px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 389px;
+}
+

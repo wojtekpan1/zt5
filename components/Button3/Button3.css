@@ -1,0 +1,28 @@
+.button-38,
+.button-39,
+.button-40,
+.button-41,
+.button-42,
+.button-43,
+.button-44 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 40px;
+  display: flex;
+  height: 55px;
+  min-width: 151px;
+  padding: 14px 30px;
+}
+
+.contact-us-106,
+.contact-us-107,
+.contact-us-108,
+.contact-us-109,
+.contact-us-110,
+.contact-us-111,
+.contact-us-112 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+

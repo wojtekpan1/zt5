@@ -1,0 +1,39 @@
+.car-card-7,
+.car-card-8,
+.car-card-9,
+.car-card-10,
+.car-card-11 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  min-height: 557px;
+  padding: 30px 26px;
+  position: relative;
+  width: 686px;
+}
+
+.rectangle-32-5,
+.rectangle-32-6,
+.rectangle-32-7,
+.rectangle-32-8,
+.rectangle-32-9 {
+  height: 265px;
+  margin-right: 1.0px;
+  object-fit: cover;
+  width: 625px;
+}
+
+.lorem-ipsum-dolor-s-7,
+.lorem-ipsum-dolor-s-8,
+.lorem-ipsum-dolor-s-9,
+.lorem-ipsum-dolor-s-10,
+.lorem-ipsum-dolor-s-11 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 19px;
+  min-height: 110px;
+  width: 626px;
+}
+

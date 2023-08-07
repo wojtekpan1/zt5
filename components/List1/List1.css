@@ -1,0 +1,9 @@
+.list-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  height: 427px;
+  min-width: 1402px;
+  position: relative;
+}
+

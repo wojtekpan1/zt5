@@ -1,0 +1,50 @@
+.ghost-_breadcrumb_item-1,
+.ghost-_breadcrumb_item-2,
+.ghost-_breadcrumb_item-3,
+.ghost-_breadcrumb_item-4,
+.ghost-_breadcrumb_item-5,
+.ghost-_breadcrumb_item-6,
+.ghost-_breadcrumb_item-7,
+.ghost-_breadcrumb_item-8,
+.ghost-_breadcrumb_item-9,
+.ghost-_breadcrumb_item-10,
+.ghost-_breadcrumb_item-11,
+.ghost-_breadcrumb_item-12,
+.ghost-_breadcrumb_item-13,
+.ghost-_breadcrumb_item-14,
+.ghost-_breadcrumb_item-15,
+.ghost-_breadcrumb_item-16,
+.ghost-_breadcrumb_item-17 {
+  align-items: flex-start;
+  background-color: #ffffff00;
+  border-radius: 4px;
+  display: flex;
+  height: 24px;
+  min-width: 61px;
+  padding: 0 8px;
+}
+
+.place-12,
+.place-13,
+.place-14,
+.place-15,
+.place-16,
+.place-17,
+.place-18,
+.place-19,
+.place-20,
+.place-21,
+.place-22,
+.place-23,
+.place-24,
+.place-25,
+.place-26,
+.place-27,
+.place-28 {
+  letter-spacing: 0;
+  line-height: 160px;
+  margin-top: -2px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+

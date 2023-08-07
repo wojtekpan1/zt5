@@ -1,0 +1,32 @@
+.group-64 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  margin-left: 80px;
+  margin-top: 29px;
+  min-width: 622px;
+}
+
+.group-58-14 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 622px;
+  padding: 29px 32px;
+}
+
+.place-67 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 450px;
+}
+
+.group-64.group-65,
+.group-64.group-6-4,
+.group-64.group-6-5 {
+  margin-top: 30px;
+}
+

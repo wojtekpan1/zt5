@@ -1,0 +1,27 @@
+.group-43-1 {
+  align-self: center;
+  height: 11px;
+  margin-bottom: 2.0px;
+  position: relative;
+  transform: rotate(1.57deg);
+  width: 20px;
+}
+
+.line-6-1 {
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-1.57deg);
+  width: 11px;
+}
+
+.line-7-1 {
+  height: 10px;
+  left: 4px;
+  position: absolute;
+  top: -4px;
+  transform: rotate(-1.57deg);
+  width: 11px;
+}
+

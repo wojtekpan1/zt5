@@ -1,0 +1,35 @@
+.frame-11-2,
+.frame-11-3,
+.frame-11-4,
+.frame-11-5,
+.frame-11-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 81px;
+}
+
+.x-13,
+.x-14,
+.x-15,
+.x-16,
+.x-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+}
+
+.partners-41,
+.partners-42,
+.partners-43,
+.partners-44,
+.partners-45 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+

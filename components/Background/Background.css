@@ -1,0 +1,19 @@
+.background {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 445px;
+  left: 0;
+  min-width: 1920px;
+  position: absolute;
+  top: 0;
+}
+
+.hans-reniers-l-qgjcmy5qc-m-unsplash-2 {
+  background-color: var(--primarygreen);
+  height: 445px;
+  opacity: 0.95;
+  width: 1920px;
+}
+

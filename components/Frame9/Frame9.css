@@ -1,0 +1,16 @@
+.frame-9-1 {
+  align-items: flex-start;
+  background-color: var(--dove-gray);
+  border: 1px none;
+  display: flex;
+  height: 239px;
+  min-width: 4655px;
+  padding: 41px 145px;
+}
+
+.title-28 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 155px;
+}
+

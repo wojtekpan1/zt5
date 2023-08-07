@@ -1,0 +1,564 @@
+.plp {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4758px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-77 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  min-width: 1281px;
+}
+
+.logo-124 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-62 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  margin-top: 5.0px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-46 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-147 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-131 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 218px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.overlap-group8 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--alto);
+  border-radius: 39px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: -69px;
+  margin-top: 96px;
+  min-height: 365px;
+  padding: 75px 149px;
+  width: 1425px;
+}
+
+.title-79 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-292 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  width: 646px;
+}
+
+.group-38-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 35px;
+  height: 24px;
+  margin-left: 1.0px;
+  margin-top: 83px;
+  min-width: 1265px;
+  padding: 0 45px;
+}
+
+.early-pathogen-recognition-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 255px;
+  white-space: nowrap;
+}
+
+.patient-engagement-16 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 191px;
+  white-space: nowrap;
+}
+
+.physician-support-solutions-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 260px;
+  white-space: nowrap;
+}
+
+.tele-diagnostics-ai-decision-support-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.group-48-18 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 83px;
+  min-width: 1276px;
+}
+
+.overlap-group-135 {
+  height: 532px;
+  position: relative;
+  width: 1276px;
+}
+
+.partners-128 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  left: 0;
+  min-height: 532px;
+  padding: 107px 0;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.early-pathogen-recognition-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 146px;
+  width: 457px;
+}
+
+.group-47-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  min-height: 127px;
+  width: 304px;
+}
+
+.group-45-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  min-width: 206px;
+}
+
+.catalyst-s4-15 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 164px;
+}
+
+.group-43-4 {
+  align-self: center;
+  height: 16px;
+  margin-bottom: 0;
+  position: relative;
+  transform: rotate(1.57deg);
+  width: 28px;
+}
+
+.line-6-3 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-1.57deg);
+  width: 16px;
+}
+
+.line-7-3 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: -6px;
+  transform: rotate(-1.57deg);
+  width: 16px;
+}
+
+.group-46-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  min-width: 304px;
+  position: relative;
+}
+
+.catalyst-research-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 258px;
+}
+
+.rectangle-25-2 {
+  background-color: var(--alto);
+  border-radius: 39px;
+  height: 532px;
+  left: 699px;
+  position: absolute;
+  top: 0;
+  width: 577px;
+}
+
+.group-31 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 5.0px;
+  margin-top: 141px;
+  min-width: 1281px;
+}
+
+.overlap-group-136 {
+  height: 532px;
+  position: relative;
+  width: 1281px;
+}
+
+.rectangle-25-3 {
+  background-color: var(--alto);
+  border-radius: 39px;
+  height: 532px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 577px;
+}
+
+.partners-129 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  left: 5px;
+  min-height: 532px;
+  padding: 61px 129px;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.patient-engagement-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 146px;
+  text-align: right;
+  width: 451px;
+}
+
+.group-47-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  min-height: 219px;
+  width: 279px;
+}
+
+.group-45-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 35px;
+  margin-right: -2px;
+  min-width: 281px;
+  position: relative;
+}
+
+.catalyst-engage-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 35px;
+  text-align: right;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.group-46-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  min-width: 262px;
+  position: relative;
+}
+
+.catalyst-triage-33 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 216px;
+}
+
+.group-47-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  min-width: 176px;
+  position: relative;
+}
+
+.pt-genie-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 130px;
+}
+
+.group-50 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 141px;
+  min-width: 1276px;
+}
+
+.partners-130 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 0;
+  min-height: 532px;
+  padding: 61px 0;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.physician-support-solutions-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 130px;
+  width: 546px;
+}
+
+.group-47-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 219px;
+  width: 318px;
+}
+
+.group-45-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 26px;
+  min-width: 320px;
+  position: relative;
+}
+
+.catalyst-encounter-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.group-46-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  margin-top: 65px;
+  min-width: 167px;
+  position: relative;
+}
+
+.aircoder-4,
+.sectra-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 121px;
+}
+
+.group-47-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  margin-top: 56px;
+  min-width: 204px;
+  position: relative;
+}
+
+.curematch-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 36px;
+  width: 158px;
+}
+
+.partners-131 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  left: 5px;
+  min-height: 532px;
+  padding: 107px 0;
+  position: absolute;
+  top: 0;
+  width: 1276px;
+}
+
+.tele-diagnostics-ai-decision-support-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 135px;
+  text-align: right;
+  width: 580px;
+}
+
+.group-47-8 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  min-height: 127px;
+  width: 294px;
+}
+
+.group-45-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 35px;
+  margin-right: -2px;
+  min-width: 296px;
+  position: relative;
+}
+
+.catalyst-telemed-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.group-46-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 36px;
+  min-width: 167px;
+  position: relative;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--alto);
+  border-radius: 39px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  margin-right: -67px;
+  margin-top: 126px;
+  min-height: 365px;
+  padding: 52px 140px;
+  width: 1425px;
+}
+
+.want-a-tailored-solution-for-you-19 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4px;
+  min-height: 73px;
+  min-width: 947px;
+}
+
+.flex-row-78 {
+  align-items: center;
+  display: flex;
+  gap: 225px;
+  height: 87px;
+  min-width: 1141px;
+}
+
+.contact-us-132 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 15.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.lorem-ipsum-dolor-si-293 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 87px;
+  text-align: right;
+  width: 822px;
+}
+
+.group-42-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 407px;
+  margin-top: 115px;
+  min-width: 1440px;
+  position: relative;
+}
+

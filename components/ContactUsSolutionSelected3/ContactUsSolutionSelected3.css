@@ -1,0 +1,100 @@
+.contact-us-u45-solution-selected {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3061px;
+  position: relative;
+  width: 1920px;
+}
+
+.inquiry-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+  min-height: 1352px;
+  padding: 119px 260px;
+  width: 1920px;
+}
+
+.place-an-inquiry-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 54px;
+  min-width: 331px;
+  text-align: center;
+}
+
+.form-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  min-height: 998px;
+  width: 633px;
+}
+
+.frame-90-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 878px;
+  position: relative;
+  width: 633px;
+}
+
+.overlap-group-98 {
+  align-items: flex-end;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 32.6px;
+}
+
+.name-28,
+.johnlemailco-1,
+.text-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 458px;
+}
+
+.overlap-group3-27 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 633px;
+  padding: 29px 33px;
+}
+
+.lorem-ipsum-dolor-si-248 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 132px;
+  width: 550px;
+}
+
+.cta-34 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  min-width: 143px;
+  padding: 16.5px 50px;
+}
+
+.contact-us-121 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+

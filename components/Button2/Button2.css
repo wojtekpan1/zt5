@@ -1,0 +1,24 @@
+.button-28 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 40px;
+  display: flex;
+  height: 65px;
+  min-width: 248px;
+  padding: 19px 30px;
+}
+
+.explore-our-solutions-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 188px;
+  text-align: center;
+}
+
+.button-28.button-32 {
+  left: 494px;
+  position: absolute;
+  top: 452px;
+}
+

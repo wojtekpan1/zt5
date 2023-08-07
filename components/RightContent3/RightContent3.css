@@ -1,0 +1,36 @@
+.t-content-1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.rectangle-32-4 {
+  height: 496px;
+  object-fit: cover;
+  position: relative;
+  width: 683px;
+}
+
+.t-content-1.t-content-2,
+.t-content-1.t-content-2-1,
+.t-content-1.t-content-3,
+.t-content-1.t-content-3-1 {
+  flex: unset;
+  flex-direction: unset;
+  flex-grow: unset;
+  min-width: 683px;
+  position: unset;
+}
+
+.t-content-1.t-content-2-1 .rectangle-32-4,
+.t-content-1.t-content-3-1 .rectangle-32-4,
+.t-content-1.t-content-2 .rectangle-32-4,
+.t-content-1.t-content-3 .rectangle-32-4 {
+  position: unset;
+}
+

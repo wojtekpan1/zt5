@@ -1,0 +1,234 @@
+.desktop-1 {
+  align-items: center;
+  background-color: var(--primarybeige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.overlap-group1-36 {
+  align-items: center;
+  background-color: var(--primarygreen);
+  display: flex;
+  flex-direction: column;
+  min-height: 375px;
+  padding: 18px 327px;
+  width: 1440px;
+}
+
+.menu-55 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-right: 51.0px;
+  min-width: 653px;
+}
+
+.frame-3-85 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 103px;
+}
+
+.solutions-90 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 79px;
+}
+
+.keyboard_arrow_down-140 {
+  height: 24px;
+  width: 24px;
+}
+
+.frame-4-39 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.frame-5-62 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 128px;
+}
+
+.publications-47 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 104px;
+}
+
+.frame-6-60 {
+  align-items: center;
+  display: flex;
+  min-width: 101px;
+}
+
+.about-us-75 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 77px;
+}
+
+.title-70 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 108px;
+  min-height: 73px;
+  min-width: 704px;
+}
+
+.rebuild-the-healthca-15 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 31px;
+  min-height: 29px;
+  text-align: center;
+  width: 785px;
+}
+
+.highlights-3 {
+  align-items: center;
+  display: flex;
+  gap: 163px;
+  height: 172px;
+  min-width: 1440px;
+  padding: 0 105px;
+}
+
+.frame-8-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 126px;
+}
+
+.x-20,
+.x-21,
+.xm-3,
+.x-22,
+.x-23 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+}
+
+.professionals-17,
+.years-in-healthcare-17,
+.fundraised-15,
+.partners-121,
+.countries-15 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.frame-9-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 180px;
+}
+
+.frame-10-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 101px;
+}
+
+.frame-11-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 81px;
+}
+
+.frame-12-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 88px;
+}
+
+.value-based-healthcare-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 97px;
+  height: 309px;
+  margin-right: 73.0px;
+  margin-top: 91px;
+  min-width: 1217px;
+}
+
+.group-12-6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  min-height: 293px;
+  position: relative;
+  width: 646px;
+}
+
+.what-is-value-based-healthcare-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.ellipse-container-30 {
+  height: 294px;
+  position: relative;
+  width: 474px;
+}
+
+.ellipse-4-9 {
+  background-color: var(--primaryred);
+  border-radius: 147px;
+  height: 294px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.ellipse-5-9 {
+  background-color: var(--cultured-pearl);
+  border-radius: 128.5px;
+  height: 257px;
+  left: 217px;
+  position: absolute;
+  top: 33px;
+  width: 257px;
+}
+

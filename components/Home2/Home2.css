@@ -1,0 +1,188 @@
+.home {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5005px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-66 {
+  align-items: center;
+  display: flex;
+  height: 60px;
+  margin-left: 1.0px;
+  margin-top: 43px;
+  min-width: 1281px;
+  padding: 5px 0;
+}
+
+.logo-119 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.menu-57 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-left: 184px;
+  min-width: 653px;
+  position: relative;
+}
+
+.frame-4-41 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 177px;
+}
+
+.partners-clients-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 153px;
+}
+
+.keyboard_arrow_down-142 {
+  height: 24px;
+  width: 24px;
+}
+
+.contact-us-123 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 218px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-73 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 117px;
+  min-height: 73px;
+  min-width: 704px;
+}
+
+.rebuild-the-healthca-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 29px;
+  min-height: 29px;
+  text-align: center;
+  width: 785px;
+}
+
+.solutions-92 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 5.0px;
+  margin-top: 150px;
+  min-height: 437px;
+  width: 1291px;
+}
+
+.our-solutions-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4.0px;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 237px;
+}
+
+.lorem-ipsum-dolor-si-263 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5.0px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 642px;
+}
+
+.frame-container-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 100px;
+  margin-right: 0.98px;
+  margin-top: 66px;
+  min-width: 1290px;
+}
+
+.frame-16-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  min-height: 260px;
+  width: 328px;
+}
+
+.early-pathogen-recognition-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+}
+
+.frame-16-item {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.frame-57 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  min-width: 862px;
+}
+
+.overlap-group-123 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  min-width: 260px;
+  padding: 117px 71px;
+}
+
+.solution-57 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group1-42 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  justify-content: flex-end;
+  min-width: 262px;
+  padding: 116px 70.0px;
+}
+
+.overlap-group2-36 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 260px;
+  justify-content: flex-end;
+  min-width: 260px;
+  padding: 116px 69.0px;
+}
+

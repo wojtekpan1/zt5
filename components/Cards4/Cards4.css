@@ -1,0 +1,186 @@
+.cards-37 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-top: 168px;
+  min-width: 1400px;
+}
+
+.card-59 {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 20px;
+  display: flex;
+  height: 192px;
+  justify-content: flex-end;
+  min-width: 264px;
+  padding: 33px 73px;
+}
+
+.overlap-group-69 {
+  height: 111px;
+  position: relative;
+  width: 117px;
+}
+
+.professionals-8,
+.years-in-healthcare-8,
+.countries-6 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+
+.number-22 {
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.card-60 {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 20px;
+  display: flex;
+  height: 192px;
+  justify-content: flex-end;
+  min-width: 264px;
+  padding: 33px 47px;
+}
+
+.overlap-group1-25 {
+  height: 111px;
+  position: relative;
+  width: 169px;
+}
+
+.number-23 {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.card-61 {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 20px;
+  display: flex;
+  height: 192px;
+  justify-content: flex-end;
+  min-width: 264px;
+  padding: 33px 54px;
+}
+
+.overlap-group2-22 {
+  height: 111px;
+  position: relative;
+  width: 155px;
+}
+
+.fundraised-6 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+
+.x10-m-3,
+.number-24 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.card-62 {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 20px;
+  display: flex;
+  height: 192px;
+  min-width: 264px;
+  padding: 33px 93px;
+}
+
+.overlap-group3-14 {
+  height: 111px;
+  position: relative;
+  width: 78px;
+}
+
+.partners-111 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+
+.card-63 {
+  align-items: flex-start;
+  background-color: var(--parchment);
+  border-radius: 20px;
+  display: flex;
+  height: 192px;
+  justify-content: flex-end;
+  min-width: 264px;
+  padding: 33px 90px;
+}
+
+.overlap-group4-10 {
+  height: 111px;
+  position: relative;
+  width: 83px;
+}
+
+.number-25 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.cards-37.cards-41,
+.cards-37.cards-42,
+.cards-37.cards-43 {
+  height: 192px;
+  left: 260px;
+  margin-top: unset;
+  position: absolute;
+  top: 798px;
+}
+
+.cards-37.cards-41 .card-59,
+.cards-37.cards-41 .card-60,
+.cards-37.cards-41 .card-61,
+.cards-37.cards-41 .card-62,
+.cards-37.cards-41 .card-63,
+.cards-37.cards-42 .card-59,
+.cards-37.cards-42 .card-60,
+.cards-37.cards-42 .card-61,
+.cards-37.cards-42 .card-62,
+.cards-37.cards-42 .card-63,
+.cards-37.cards-43 .card-59,
+.cards-37.cards-43 .card-60,
+.cards-37.cards-43 .card-61,
+.cards-37.cards-43 .card-62,
+.cards-37.cards-43 .card-63 {
+  background-color: var(--cutty-sark);
+}
+

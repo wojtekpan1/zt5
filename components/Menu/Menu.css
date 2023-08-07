@@ -1,0 +1,53 @@
+.menu-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 50px;
+  margin-left: 118px;
+  margin-top: 5.0px;
+  min-width: 748px;
+  position: relative;
+}
+
+.frame-4-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 115px;
+  padding: 0 9px;
+}
+
+.partners-21 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 73px;
+}
+
+.keyboard_arrow_down {
+  height: 24px;
+  width: 24px;
+}
+
+.frame-7-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 101px;
+  padding: 0 9px;
+}
+
+.clients-19 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 59px;
+}
+
+.menu-17.menu-28,
+.menu-17.menu-30 {
+  height: 24px;
+  left: 295px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 61px;
+}
+

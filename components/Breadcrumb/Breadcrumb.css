@@ -1,0 +1,46 @@
+.breadcrumb,
+.breadcrumb-1,
+.breadcrumb-2,
+.breadcrumb-3,
+.breadcrumb-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  left: 260px;
+  position: absolute;
+  top: 238px;
+}
+
+.place,
+.place-1,
+.place-2,
+.place-3,
+.place-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.caret-circle-right,
+.caret-circle-right-1,
+.caret-circle-right-2,
+.caret-circle-right-3,
+.caret-circle-right-4 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.contact-us,
+.contact-us-1,
+.contact-us-2,
+.contact-us-3,
+.contact-us-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.6;
+  position: relative;
+  width: fit-content;
+}
+

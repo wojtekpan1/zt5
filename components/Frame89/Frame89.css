@@ -1,0 +1,60 @@
+.frame-89,
+.frame-89-1,
+.frame-89-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  margin-top: 227px;
+  position: relative;
+  width: 1400px;
+}
+
+.frame-88-14,
+.frame-88-15,
+.frame-88-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.title-14,
+.explore-our-solutions,
+.title-15,
+.explore-our-solutions-1,
+.title-16,
+.explore-our-solutions-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.rebuild-the-healthca,
+.rebuild-the-healthca-1,
+.rebuild-the-healthca-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 785px;
+}
+
+.button-17,
+.button-18,
+.button-19 {
+  align-items: center;
+  background-color: var(--primaryred);
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  justify-content: center;
+  padding: 20px 30px;
+  position: relative;
+}
+

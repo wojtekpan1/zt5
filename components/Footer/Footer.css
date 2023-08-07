@@ -1,0 +1,198 @@
+.footer {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  mix-blend-mode: normal;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 1400px;
+}
+
+.cards {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 1396px;
+}
+
+.card {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 484px;
+}
+
+.logo-1 {
+  height: 39px;
+  position: relative;
+  width: 287.72px;
+}
+
+.social {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.follow-us-on {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 421px;
+}
+
+.frame-105 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.frame-105-item {
+  background-color: var(--greysdark);
+  border-radius: 14.5px;
+  height: 29px;
+  position: relative;
+  width: 29px;
+}
+
+.icon-facebook {
+  height: 12px;
+  left: 11px;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.instagram {
+  background-color: var(--greysdark);
+  border-radius: 15px/14.5px;
+  height: 29px;
+  position: relative;
+  width: 30px;
+}
+
+.icon-instagram {
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.you-tube {
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 9px;
+  width: 15px;
+}
+
+.links-container {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+  width: 214px;
+}
+
+.who-we-are,
+.our-story,
+.what-we-do,
+.solution-1,
+.who-we-work-with,
+.hospital-clients,
+.how-we-can-help,
+.terms-conditions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.links {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.our-team,
+.solution-2,
+.solution-3,
+.solution-4,
+.solution-5,
+.solution-6,
+.catalyst-triage,
+.government-clients,
+.solution-partners,
+.privacy-policy,
+.get-in-touch,
+.fa-qs {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.links-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 188px;
+}
+
+.x-partners {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 175px;
+}
+
+.footer.footer-1 .logo-1,
+.footer.footer-3 .logo-1,
+.footer.footer-12 .logo-1,
+.footer.footer-14 .logo-1 {
+  height: 39px;
+}
+
+.footer.footer-9 .logo-1 {
+  height: 39px;
+  width: 287.72px;
+}
+
+.footer.footer-16 .logo-1 {
+  height: 39px;
+  width: 287.72px;
+}
+

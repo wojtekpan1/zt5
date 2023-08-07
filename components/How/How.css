@@ -1,0 +1,88 @@
+.how,
+.how-1 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  gap: 74px;
+  height: 718px;
+  margin-top: 59px;
+  min-width: 1440px;
+  padding: 64px 74px;
+  position: relative;
+}
+
+.flex-col-46,
+.flex-col-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 572px;
+  width: 1115px;
+}
+
+.how-it-works-2,
+.how-it-works-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 48px;
+  width: 729px;
+}
+
+.early-pathogen-detec-1,
+.early-pathogen-detec-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 30px;
+  min-height: 48px;
+  width: 871px;
+}
+
+.overlap-group3-10,
+.overlap-group3-11 {
+  align-self: flex-end;
+  height: 365px;
+  margin-top: 81px;
+  position: relative;
+  width: 1079px;
+}
+
+.group-94-1,
+.group-94-2 {
+  align-items: center;
+  display: flex;
+  gap: 117px;
+  height: 365px;
+  left: 0;
+  min-width: 1079px;
+  position: absolute;
+  top: 0;
+}
+
+.ellipse-28,
+.ellipse-28-1 {
+  background-color: var(--alto);
+  border-radius: 182.5px;
+  height: 365px;
+  width: 365px;
+}
+
+.collect-patient-symp-1,
+.apply-pattern-recogn {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-bottom: 55.0px;
+  min-height: 144px;
+  width: 595px;
+}
+
+.text-8-1,
+.text-9-1 {
+  left: 484px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+

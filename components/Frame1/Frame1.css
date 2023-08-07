@@ -1,0 +1,16 @@
+.frame-1-5 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  height: 239px;
+  min-width: 13167px;
+  padding: 41px 145px;
+}
+
+.title-71 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 155px;
+}
+

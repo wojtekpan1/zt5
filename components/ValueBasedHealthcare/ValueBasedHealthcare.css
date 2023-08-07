@@ -1,0 +1,67 @@
+.value-based-healthcare,
+.value-based-healthcare-1,
+.value-based-healthcare-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 97px;
+  height: 309px;
+  margin-right: 71.0px;
+  margin-top: 120px;
+  min-width: 1217px;
+}
+
+.group-12-1,
+.group-12-2,
+.group-12-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  min-height: 293px;
+  position: relative;
+  width: 646px;
+}
+
+.what-is-value-based-healthcare-3,
+.what-is-value-based-healthcare-4,
+.what-is-value-based-healthcare-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.ellipse-container-8,
+.ellipse-container-9,
+.ellipse-container-10 {
+  height: 294px;
+  position: relative;
+  width: 474px;
+}
+
+.ellipse-4,
+.ellipse-4-1,
+.ellipse-4-2 {
+  background-color: var(--greyslight);
+  border-radius: 147px;
+  height: 294px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.ellipse-5,
+.ellipse-5-1,
+.ellipse-5-2 {
+  background-color: var(--cultured-pearl);
+  border-radius: 128.5px;
+  height: 257px;
+  left: 217px;
+  position: absolute;
+  top: 33px;
+  width: 257px;
+}
+

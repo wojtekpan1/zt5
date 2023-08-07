@@ -1,0 +1,31 @@
+.pagination-1,
+.pagination-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 31px;
+  height: 24px;
+  margin-right: 3.0px;
+  min-width: 1397px;
+  padding: 0 604px;
+}
+
+.number-68,
+.number-69 {
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 13px;
+  white-space: nowrap;
+}
+
+.number-70,
+.number-71 {
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+

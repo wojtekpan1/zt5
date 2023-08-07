@@ -1,0 +1,40 @@
+.group-7-4-1 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  gap: 215px;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 27.8px;
+}
+
+.solution-54 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 33px;
+  width: 340px;
+}
+
+.caret-down-7 {
+  height: 20px;
+  margin-top: 1.0px;
+  width: 20px;
+}
+
+.group-7-4-1.group-71-2 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  gap: 117px;
+  height: 89px;
+  min-width: 633px;
+  padding: 27px 28px;
+}
+
+.group-7-4-1.group-71-2 .solution-54 {
+  width: 438px;
+}
+

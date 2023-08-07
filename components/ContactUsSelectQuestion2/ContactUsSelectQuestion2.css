@@ -1,0 +1,176 @@
+.contact-us-select-question-2 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2420px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-48 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-64 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-71 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-48 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 73px;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-162 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 75px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.place-an-inquiry-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 74px;
+  margin-top: 80px;
+  min-height: 36px;
+  width: 288px;
+}
+
+.overlap-group4-9 {
+  height: 950px;
+  margin-left: 76px;
+  margin-top: 44px;
+  position: relative;
+  width: 633px;
+}
+
+.place-38 {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 811px;
+}
+
+.frame-90-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 950px;
+  position: absolute;
+  top: 0;
+  width: 633px;
+}
+
+.group-58-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 223px;
+  height: 89px;
+  justify-content: flex-end;
+  min-width: 633px;
+  padding: 29px 26.0px;
+}
+
+.solutions-67 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 340px;
+}
+
+.vector-345 {
+  align-self: center;
+  height: 10px;
+  margin-top: 0.73px;
+  width: 16px;
+}
+
+.group-102 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  gap: 66px;
+  height: 89px;
+  justify-content: flex-end;
+  margin-top: 30px;
+  min-width: 633px;
+  padding: 29px 26.0px;
+}
+
+.what-solution-are-you-looking-for {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 497px;
+}
+
+.overlap-group-67 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  margin-top: 30px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+
+.name-15,
+.email-5,
+.phone-number-5,
+.comment-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 458px;
+}
+
+.overlap-group3-13 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  margin-top: 30px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+
+.place-39 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 52px;
+  margin-top: 39px;
+  min-height: 22px;
+}
+

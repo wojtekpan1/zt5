@@ -1,0 +1,31 @@
+.group-87 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  gap: 22px;
+  min-width: 653px;
+  position: relative;
+}
+
+.overlap-group-34 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 116px 85px;
+}
+
+.solution-1-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.group-87.group-87-1 .overlap-group-34 {
+  justify-content: flex-end;
+  padding: 116px 83px;
+}
+

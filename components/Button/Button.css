@@ -1,0 +1,30 @@
+.button-23,
+.button-24,
+.button-25,
+.button-26,
+.button-27 {
+  align-items: center;
+  background-color: var(--primaryred);
+  border: 1px solid;
+  border-radius: 40px;
+  display: inline-flex;
+  gap: 40px;
+  height: 55px;
+  justify-content: center;
+  padding: 20px 30px;
+  position: relative;
+}
+
+.contact-us-40,
+.contact-us-41,
+.contact-us-42,
+.contact-us-43,
+.contact-us-44 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -4.00px;
+  margin-top: -6.00px;
+  position: relative;
+  width: fit-content;
+}
+

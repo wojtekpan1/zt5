@@ -1,0 +1,17 @@
+.popup-6 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  gap: 57px;
+  height: 953px;
+  padding: 23px 21px;
+  position: relative;
+  width: 1360px;
+}
+
+.x-19 {
+  height: 32px;
+  width: 32px;
+}
+

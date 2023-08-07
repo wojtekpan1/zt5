@@ -1,0 +1,79 @@
+.frame-17-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 3.0px;
+  margin-top: 81px;
+  min-height: 41px;
+  width: 1336px;
+}
+
+.frame-16-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 24px;
+  margin-right: -3px;
+  min-width: 1333px;
+}
+
+.population-health-12 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 165px;
+  white-space: nowrap;
+}
+
+.hospitals-clinics-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 152px;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 179px;
+  white-space: nowrap;
+}
+
+.physician-support-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 190px;
+  margin-top: -1px;
+  min-height: 24px;
+  min-width: 169px;
+  white-space: nowrap;
+}
+
+.patient-engagement-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 148px;
+  margin-top: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group-32 {
+  align-items: flex-start;
+  background-image: url(/static/img/line-2-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  margin-left: 8px;
+  min-width: 1289px;
+  padding: 0 313px;
+}
+
+.line-3 {
+  height: 1px;
+  width: 205px;
+}
+
+.frame-17-1.frame-17-2 {
+  align-self: flex-end;
+  margin-left: unset;
+  margin-top: 51px;
+}
+

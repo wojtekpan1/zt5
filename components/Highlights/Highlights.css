@@ -1,0 +1,54 @@
+.highlights {
+  align-items: center;
+  background-color: var(--greyslight);
+  display: flex;
+  gap: 176px;
+  height: 172px;
+  justify-content: flex-end;
+  margin-top: 50px;
+  min-width: 1440px;
+  padding: 0 75px;
+  position: relative;
+}
+
+.frame-10-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 105px;
+}
+
+.xm,
+.x {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+}
+
+.fundraised-3,
+.countries-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.frame-12-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 80px;
+  width: 92px;
+}
+
+.highlights.highlights-2 {
+  left: 0;
+  margin-top: unset;
+  position: absolute;
+  top: 417px;
+}
+

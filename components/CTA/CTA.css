@@ -1,0 +1,33 @@
+.cta {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primaryred);
+  border-radius: 30px;
+  display: inline-flex;
+  gap: 10px;
+  height: 60px;
+  justify-content: center;
+  padding: 10px 50px;
+  position: relative;
+}
+
+.contact-us-23 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.cta.cta-2 {
+  cursor: pointer;
+}
+
+.cta.cta-5 {
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.cta.cta-6 {
+  flex: 0 0 auto;
+}
+

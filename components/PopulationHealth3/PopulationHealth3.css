@@ -1,0 +1,33 @@
+.population-health2 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4245px;
+  position: relative;
+  width: 1920px;
+}
+
+.banner-23 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.overlap-group-81 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.solution-52 {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  height: 736px;
+  min-width: 1920px;
+  padding: 0 260px;
+  position: relative;
+}
+

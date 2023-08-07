@@ -1,0 +1,50 @@
+.group-63-1 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 258px;
+  padding: 34px 32px;
+  width: 622px;
+}
+
+.solutions-93 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.partnership {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 29px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.group-63-item-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 28px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.group-63-1.group-63-2 {
+  gap: 28px;
+}
+
+.group-63-1.group-63-2 .partnership {
+  margin-top: unset;
+}
+
+.group-63-1.group-63-2 .group-63-item-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: unset;
+  min-height: 26px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,67 @@
+.dropdowns-u40expandedu41 {
+  align-items: flex-end;
+  background-color: var(--greyslight-beige);
+  border: 2px solid;
+  border-color: var(--primarybeige);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  min-height: 491px;
+  overflow-x: hidden;
+  padding: 20px 14px;
+  position: relative;
+  width: 848px;
+}
+
+.flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 17px;
+  min-width: 787px;
+  position: relative;
+}
+
+.line-1 {
+  height: 322px;
+  margin-left: 27px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.group-10-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  margin-left: 44px;
+  margin-top: 14px;
+  min-height: 176px;
+  position: relative;
+  width: 273px;
+}
+
+.group-7-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 70px;
+  width: 277px;
+}
+
+.catalyst-s4-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+
+.lorem-ipsum-dolor-si-58 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 38px;
+  opacity: 0.8;
+  width: 273px;
+}
+

@@ -1,0 +1,29 @@
+.group-58-12,
+.group-58-13 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  gap: 97px;
+  height: 89px;
+  justify-content: flex-end;
+  min-width: 622px;
+  padding: 29px 25px;
+}
+
+.which-solution-are-you-interested-in,
+.which-solution-are-you-interested-in-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 450px;
+}
+
+.group-57-4,
+.group-57-5 {
+  align-self: center;
+  height: 10px;
+  margin-top: 0.73px;
+  width: 18px;
+}
+

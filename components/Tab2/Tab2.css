@@ -1,0 +1,23 @@
+.tab-3,
+.tab-4,
+.tab-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 0px;
+  position: relative;
+  width: 334px;
+}
+
+.patient-engagement,
+.patient-engagement-1,
+.patient-engagement-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+

@@ -1,0 +1,94 @@
+.popup-1 {
+  align-items: flex-start;
+  background-color: var(--black-2);
+  border: 1px none;
+  display: flex;
+  width: 1360px;
+}
+
+.popup {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border-radius: 30px;
+  box-shadow: 0px 4px 80px #0625614c;
+  display: flex;
+  gap: 57px;
+  height: 953px;
+  overflow: hidden;
+  padding: 23px 21px;
+  width: 1360px;
+}
+
+.frame-184953 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-bottom: 29.0px;
+  margin-left: 89px;
+  position: relative;
+  width: 1140px;
+}
+
+.frame-184962 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.title-lorem-ipsum-d {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.address-11 {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.link-to-news {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lorem-ipsum-dolor-si-67 {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  width: 548px;
+}
+
+.rectangle-12751-8 {
+  height: 457px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 567px;
+}
+
+.icon-close-1 {
+  height: 32px;
+  width: 32px;
+}
+
+#overlay-popup-1 {
+  align-items: center;
+  background-color: #00000040;
+  justify-content: center;
+}
+

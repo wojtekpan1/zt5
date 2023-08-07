@@ -1,0 +1,38 @@
+.frame-45,
+.frame-46,
+.frame-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 352px;
+  width: 281px;
+}
+
+.rectangle-20-4,
+.rectangle-20-5,
+.rectangle-20-6 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 276px;
+  width: 281px;
+}
+
+.place-32,
+.place-33,
+.place-34 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 13px;
+  min-height: 29px;
+}
+
+.position-2,
+.position-3,
+.position-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+

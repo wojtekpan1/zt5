@@ -1,0 +1,132 @@
+.contact-us-empty-form-2 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2301px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-47 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-63 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-66 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-47 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 73px;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-161 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 75px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.place-an-inquiry-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 74px;
+  margin-top: 80px;
+  min-height: 36px;
+  width: 288px;
+}
+
+.frame-90-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: 76px;
+  margin-top: 44px;
+  min-height: 759px;
+  width: 633px;
+}
+
+.group-58-4 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  gap: 223px;
+  height: 89px;
+  justify-content: flex-end;
+  min-width: 633px;
+  padding: 29px 26.0px;
+}
+
+.what-are-you-looking-for-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 340px;
+}
+
+.vector-344 {
+  align-self: center;
+  height: 10px;
+  margin-top: 0.73px;
+  width: 16px;
+}
+
+.overlap-group-66 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 89px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+
+.name-14,
+.email-4,
+.phone-number-4,
+.comment-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+  width: 458px;
+}
+
+.overlap-group3-12 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 283px;
+  min-width: 633px;
+  padding: 29px 32.6px;
+}
+

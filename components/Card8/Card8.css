@@ -1,0 +1,43 @@
+.card-38 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 204px;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  width: 204px;
+}
+
+.image-10 {
+  height: 154px;
+  object-fit: cover;
+  position: relative;
+  width: 154px;
+}
+
+.card-38.card-51,
+.card-38.card-52,
+.card-38.card-53,
+.card-38.card-54,
+.card-38.card-55 {
+  flex-direction: unset;
+  gap: unset;
+  justify-content: unset;
+  min-width: 204px;
+  padding: 0 25px;
+  position: unset;
+  width: unset;
+}
+
+.card-38.card-51 .image-10,
+.card-38.card-52 .image-10,
+.card-38.card-53 .image-10,
+.card-38.card-54 .image-10,
+.card-38.card-55 .image-10 {
+  position: unset;
+}
+

@@ -1,0 +1,17 @@
+.list-3-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 44px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+}
+
+.list-3-1.list-4 {
+  flex: 0 0 auto;
+  left: unset;
+  margin-right: -2.00px;
+  position: relative;
+  top: unset;
+}
+

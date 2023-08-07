@@ -1,0 +1,32 @@
+.list-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 44px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+}
+
+.frame-116 {
+  height: 427px;
+  position: relative;
+  width: 438px;
+}
+
+.rectangle-12751-3 {
+  height: 265px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.list-2.frame-117 {
+  align-items: center;
+  flex: 0 0 auto;
+  left: unset;
+  margin-right: -2.00px;
+  position: relative;
+  top: unset;
+}
+

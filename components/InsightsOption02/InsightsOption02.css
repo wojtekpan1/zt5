@@ -1,0 +1,144 @@
+.insights-option-02 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2628px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-95 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-138 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-146 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-93 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 72px;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-315 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 73px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.frame-105-31 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 110px;
+  margin-left: 2.0px;
+  margin-top: 15px;
+  min-height: 1705px;
+  width: 1294px;
+}
+
+.group-10-13 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  min-height: 495px;
+  width: 1294px;
+}
+
+.group-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 44px;
+  margin-right: 2px;
+  min-width: 268px;
+}
+
+.in-the-news-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 197px;
+}
+
+.arrow-1-9 {
+  align-self: center;
+  height: 1px;
+  margin-top: 5.0px;
+  width: 49px;
+}
+
+.frame-container-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 399px;
+  min-width: 1294px;
+  position: relative;
+}
+
+.group-36 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 44px;
+  margin-right: 2px;
+  min-width: 229px;
+}
+
+.place-70 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 158px;
+}
+
+.group-34-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 44px;
+  margin-right: 2px;
+  min-width: 166px;
+}
+
+.blogs-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 44px;
+  min-width: 95px;
+}
+

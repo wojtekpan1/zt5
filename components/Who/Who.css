@@ -1,0 +1,42 @@
+.who,
+.who-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25.0px;
+  margin-top: 118px;
+  min-height: 344px;
+  width: 1315px;
+}
+
+.who-use-this-1,
+.who-use-this-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 48px;
+  width: 729px;
+}
+
+.client-container-2,
+.client-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 85px;
+  height: 105px;
+  margin-top: 51px;
+  min-width: 1315px;
+  position: relative;
+}
+
+.client-container-3,
+.client-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 85px;
+  height: 105px;
+  margin-top: 43px;
+  min-width: 1315px;
+  position: relative;
+}
+

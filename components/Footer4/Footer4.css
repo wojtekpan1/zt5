@@ -1,0 +1,236 @@
+.footer-43 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 14px;
+  height: 539px;
+  justify-content: flex-start;
+  min-width: 1920px;
+  mix-blend-mode: normal;
+  padding: 0 262px;
+  width: auto;
+}
+
+.card-85 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-bottom: 139.0px;
+  min-height: 160px;
+  width: 484px;
+}
+
+.logo-84 {
+  height: 39px;
+  width: 288px;
+}
+
+.social-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 71px;
+  width: 421px;
+}
+
+.follow-us-on-38 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 25px;
+  width: 421px;
+}
+
+.frame-105-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  min-width: 188px;
+  position: relative;
+}
+
+.facebook {
+  align-items: flex-start;
+  background-color: var(--greysdark);
+  border-radius: 14.5px;
+  display: flex;
+  height: 29px;
+  min-width: 29px;
+  padding: 8px 11px;
+}
+
+.facebook-1 {
+  height: 12px;
+  width: 7px;
+}
+
+.instagram-17 {
+  align-items: flex-start;
+  background-color: var(--greysdark);
+  border-radius: 15px/14.5px;
+  display: flex;
+  height: 29px;
+  min-width: 30px;
+  padding: 9.3px 9.8px;
+}
+
+.instagram-18 {
+  height: 10px;
+  width: 10px;
+}
+
+.youtube {
+  align-items: flex-start;
+  background-color: var(--greysdark);
+  border-radius: 14.5px;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  min-width: 29px;
+  padding: 9.1px 6.7px;
+}
+
+.you-tube-17 {
+  height: 10px;
+  width: 15px;
+}
+
+.links-container-17 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-bottom: 185.0px;
+  min-height: 114px;
+  width: 214px;
+}
+
+.x-we {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 25px;
+}
+
+.links-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 59px;
+  width: 73px;
+}
+
+.our-story-62,
+.solution-1-60,
+.hospital-clients-19,
+.terms-conditions-57 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 22px;
+}
+
+.our-team-61,
+.solution-2-19,
+.solution-3-59,
+.solution-4-57,
+.solution-5-17,
+.solution-6-17,
+.catalyst-triage-19,
+.government-clients-19,
+.solution-partners-18,
+.privacy-policy-57,
+.get-in-touch-57,
+.fa-qs-57 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.links-container-18 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  min-height: 299px;
+  width: 214px;
+}
+
+.links-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 244px;
+  width: 182px;
+}
+
+.links-container-19 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-bottom: 37.0px;
+  min-height: 262px;
+  width: 214px;
+}
+
+.links-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 207px;
+  width: 188px;
+}
+
+.x-partners-19 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 175px;
+}
+
+.links-container-20 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-bottom: 111.0px;
+  min-height: 188px;
+  width: 214px;
+}
+
+.links-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 133px;
+  width: 150px;
+}
+
+.footer-43.footer-52 {
+  flex-shrink: unset;
+  left: 0;
+  position: absolute;
+  top: 2177px;
+}
+
+.footer-43.footer-54 {
+  flex-shrink: unset;
+  left: 0;
+  position: absolute;
+  top: 2436px;
+}
+

@@ -1,0 +1,29 @@
+.frame-117-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 44px;
+  height: 427px;
+  min-width: 1402px;
+  position: relative;
+}
+
+.frame-116-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  min-height: 427px;
+  position: relative;
+  width: 438px;
+}
+
+.rectangle-12751-14 {
+  height: 265px;
+  width: 438px;
+}
+
+.frame-117-1.list-1-2 {
+  align-self: unset;
+}
+

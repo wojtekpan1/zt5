@@ -1,0 +1,108 @@
+.frame-93 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 1633px;
+  position: absolute;
+  top: 610px;
+}
+
+.ellipse-29-1 {
+  background-color: var(--primaryyellow);
+  border-radius: 7px;
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.ellipse-3 {
+  background-color: var(--greyslight-beige);
+  border-radius: 7px;
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.frame-93.frame-93-1,
+.frame-93.frame-93-2 {
+  align-self: flex-end;
+  display: flex;
+  left: unset;
+  margin-bottom: 30px;
+  min-height: 58px;
+  position: unset;
+  top: unset;
+  width: 14px;
+}
+
+.frame-93.frame-93-1 .ellipse-29-1,
+.frame-93.frame-93-2 .ellipse-3 {
+  background-color: var(--dove-gray-2);
+  position: unset;
+}
+
+.frame-93.frame-93-1 .ellipse-3,
+.frame-93.frame-93-2 .ellipse-29-1 {
+  background-color: var(--alto);
+  position: unset;
+}
+
+.frame-93.frame-93-3,
+.frame-93.frame-93-4 {
+  align-self: flex-end;
+  display: flex;
+  left: unset;
+  margin-bottom: 39px;
+  min-height: 58px;
+  position: unset;
+  top: unset;
+  width: 14px;
+}
+
+.frame-93.frame-93-3 .ellipse-29-1,
+.frame-93.frame-93-4 .ellipse-29-1 {
+  background-color: var(--greyslight-beige);
+  position: unset;
+}
+
+.frame-93.frame-93-3 .ellipse-3 {
+  background-color: var(--primaryyellow);
+  position: unset;
+}
+
+.frame-93.frame-93-4 .ellipse-3.variant-1 {
+  background-color: var(--primaryyellow);
+  border-radius: unset;
+  height: unset;
+  width: unset;
+}
+
+.frame-93.frame-93-1 .ellipse-3.variant-1 {
+  border-radius: 7px;
+  height: 14px;
+  width: 14px;
+}
+
+.frame-93.frame-93-2 .ellipse-3.variant-1 {
+  background-color: var(--alto);
+  border-radius: 7px;
+  height: 14px;
+  width: 14px;
+}
+
+.frame-93.frame-93-3 .ellipse-3.variant-1 {
+  background-color: var(--greyslight-beige);
+  border-radius: 7px;
+  height: 14px;
+  width: 14px;
+}
+
+.frame-93.frame-93-4 .ellipse-3 {
+  background-color: var(--greyslight-beige);
+  border-radius: 7px;
+  height: 14px;
+  position: unset;
+  width: 14px;
+}
+

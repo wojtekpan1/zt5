@@ -1,0 +1,964 @@
+:root { 
+  --alto: #d9d9d9;
+  --aqua-deep: #004844;
+  --black: #000000;
+  --black-2: #00000040;
+  --black-3: #00000033;
+  --black-4: #0000004a;
+  --blue-stone: #005e54;
+  --cultured-pearl: #f5f5f5;
+  --cutty-sark: #48776f;
+  --dove-gray: #6e6e6e;
+  --dove-gray-2: #6f6f6f;
+  --gallery: #f0f0f0fa;
+  --gallery-2: #f0f0f0;
+  --greysdark: #292929;
+  --greyslight: #e3e2e2;
+  --greyslight-beige: #fbf7f2;
+  --greysmedium: #949494;
+  --greyswhite: #ffffff;
+  --mischka: #d0d5dd;
+  --mountain-mist: #929292;
+  --parchment: #f1e5d433;
+  --parchment-2: #f1e5d44c;
+  --parchment-3: #f1e5d4e6;
+  --pine-green: #007a6be6;
+  --pink-flamingo: #ff4ffe;
+  --primarybeige: #f1e5d4;
+  --primarygreen: #007a6b;
+  --primaryred: #ff6858;
+  --primaryyellow: #ffa800;
+  --tapa: #7c7676;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-font_awesome_5_free-black: "Font Awesome 5 Free-Black", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-black: "Inter-Black", Helvetica;
+  --font-family-inter-bold: "Inter-Bold", Helvetica;
+  --font-family-inter-extralight: "Inter-ExtraLight", Helvetica;
+  --font-family-inter-light: "Inter-Light", Helvetica;
+  --font-family-inter-medium: "Inter-Medium", Helvetica;
+  --font-family-inter-semibold: "Inter-SemiBold", Helvetica;
+  --font-family-montserrat-semibold: "Montserrat-SemiBold", Helvetica;
+  --font-family-noto_serif: "Noto Serif", Helvetica;
+  --font-family-roboto-medium: "Roboto-Medium", Helvetica;
+}
+.inter-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-normal-shark-16px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-normal-shark-14px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-medium-white-18px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-parchment-18px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-bold-shark-18px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-semi-bold-shark-18px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-medium-shark-18px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-black-pine-green-48px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-bold-black-60px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-black-parchment-68px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-semi-bold-shark-20px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-bold-parchment-16px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-medium-mountain-mist-14px {
+  color: var(--greysmedium);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-shark-24px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-semi-bold-persimmon-16px {
+  color: var(--primaryred);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-medium-shark-16px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-light-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter-light);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.notoserif-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-bold-pine-green-20px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fontawesome5free-black-mischka-8px {
+  color: var(--mischka);
+  font-family: var(--font-family-font_awesome_5_free-black);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-black-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-inter-black);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-normal-dove-gray-16px {
+  color: var(--dove-gray-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-light-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter-extralight);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.notoserif-bold-pine-green-40px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-normal-mountain-mist-24px {
+  color: var(--greysmedium);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-black-pine-green-60px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-medium-white-20px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-inter-light);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-bold-white-28px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-medium-mountain-mist-16px {
+  color: var(--greysmedium);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-normal-shark-24px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-bold-shark-60px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-semi-bold-pine-green-20px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-white-24px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-persimmon-18px {
+  color: var(--primaryred);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-black-parchment-100px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-semi-bold-shark-22px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-dove-gray-60px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-inter-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-bold-spring-wood-24px {
+  color: var(--greyslight-beige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-semi-bold-black-42px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat-semibold);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-medium-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-light-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-bold-white-128px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-inter-bold);
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-light-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.notoserif-black-parchment-40px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-normal-white-16px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-medium-white-14px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-bold-white-24px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-black-web-orange-68px {
+  color: var(--primaryyellow);
+  font-family: var(--font-family-noto_serif);
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-black-pine-green-36px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-inter-black);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-normal-pine-green-20px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-56px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-semi-bold-mountain-mist-16px {
+  color: var(--greysmedium);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-parchment-18px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-medium-shark-20px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-black-pine-green-40px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.arial-regular-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-dove-gray-25px {
+  color: var(--dove-gray-2);
+  font-family: var(--font-family-inter);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-bold-pine-green-24px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-bold-shark-20px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-bold-shark-30px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-normal-mountain-mist-16px {
+  color: var(--greysmedium);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-normal-persimmon-16px {
+  color: var(--primaryred);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-persimmon-16px {
+  color: var(--primaryred);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-semi-bold-persimmon-22px {
+  color: var(--primaryred);
+  font-family: var(--font-family-noto_serif);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-bold-parchment-40px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-bold-white-36px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-semi-bold-white-24px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notoserif-bold-shark-24px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notoserif-black-pine-green-38px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-bold-black-128px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-medium-persimmon-20px {
+  color: var(--primaryred);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-40px-2 {
+  color: var(--black-3);
+  font-family: var(--font-family-inter-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-mountain-mist-36px {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-dove-gray-16px-2 {
+  color: var(--dove-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-tapa-16px {
+  color: var(--tapa);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-black-shark-60px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-black-shark-48px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-black-shark-38px {
+  color: var(--greysdark);
+  font-family: var(--font-family-noto_serif);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-black-parchment-48px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-bold-white-18px {
+  color: var(--greyswhite);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-pine-green-16px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notoserif-medium-pine-green-14px {
+  color: var(--primarygreen);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notoserif-black-spring-wood-48px {
+  color: var(--greyslight-beige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.notoserif-medium-spring-wood-18px {
+  color: var(--greyslight-beige);
+  font-family: var(--font-family-noto_serif);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-parchment-60px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-inter-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-parchment-24px {
+  color: var(--primarybeige);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-persimmon-40px {
+  color: var(--primaryred);
+  font-family: var(--font-family-inter-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}

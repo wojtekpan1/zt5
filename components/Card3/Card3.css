@@ -1,0 +1,32 @@
+.card-3-1,
+.card-3-2 {
+  align-items: center;
+  background-color: var(--primaryyellow);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 334px;
+  justify-content: center;
+  opacity: 0.9;
+  padding: 20px;
+  position: relative;
+  width: 334px;
+}
+
+.lifebuoy,
+.lifebuoy-1 {
+  height: 160px;
+  position: relative;
+  width: 160px;
+}
+
+.sectra,
+.sectra-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+

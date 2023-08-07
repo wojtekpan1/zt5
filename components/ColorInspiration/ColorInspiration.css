@@ -1,0 +1,68 @@
+.color-inspiration {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  gap: 17px;
+  height: 1080px;
+  padding: 44px 59px;
+  width: 1920px;
+}
+
+.flex-col-13 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1px;
+  min-height: 952px;
+  width: 1607px;
+}
+
+.title-18 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 51px;
+}
+
+.screenshot-2022-12-06-at-1041-1 {
+  height: 117px;
+  margin-top: 71px;
+  object-fit: cover;
+  width: 1413px;
+}
+
+.screenshot-2022-12-06-at-1042-1 {
+  height: 123px;
+  margin-top: 64px;
+  object-fit: cover;
+  width: 1413px;
+}
+
+.screenshot-2022-12-06-at-1042-2 {
+  height: 104px;
+  margin-top: 64px;
+  object-fit: cover;
+  width: 1413px;
+}
+
+.screenshot-2022-12-06-at-1043-1 {
+  height: 115px;
+  margin-top: 65px;
+  object-fit: cover;
+  width: 1413px;
+}
+
+.screenshot-2022-12-06-at-1045-1 {
+  height: 114px;
+  margin-top: 64px;
+  object-fit: cover;
+  width: 1413px;
+}
+
+.new_act-logo-v5-1 {
+  height: 43px;
+  object-fit: cover;
+  width: 177px;
+}
+

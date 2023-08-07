@@ -1,0 +1,150 @@
+.solutions-17 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-4 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-11 {
+  height: 591px;
+  position: relative;
+}
+
+.breadcrumb-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  left: 260px;
+  position: absolute;
+  top: 238px;
+}
+
+.place-5,
+.catalyst-s4-2,
+.catalyst-research,
+.catalyst-value-solutions-2,
+.sectra-2,
+.catalyst-telemed-2,
+.catalyst-encounter,
+.aircoder,
+.curematch,
+.catalyst-engage,
+.catalyst-triage-17,
+.genie-health {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.caret-circle-right-12 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.solutions-18 {
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.6;
+  position: relative;
+  width: fit-content;
+}
+
+.list {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content-36 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 1400px;
+}
+
+.left-content-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  position: relative;
+  width: 673px;
+}
+
+.rectangle-32-3 {
+  height: 245px;
+  object-fit: cover;
+  position: relative;
+  width: 587px;
+}
+
+.population-health-7,
+.hospitals-and-clinics,
+.physician-support-3,
+.patient-engagement-3 {
+  letter-spacing: 0;
+  line-height: 42px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.link-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.link {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.left-content-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  position: relative;
+  width: 673px;
+}
+
+.content-37 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 50px 0px 0px;
+  position: relative;
+  width: 1400px;
+}
+

@@ -1,0 +1,87 @@
+.contact-us-inquiry-type-dropdown {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-16 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-29 {
+  height: 591px;
+  position: relative;
+}
+
+.inquiry-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.place-an-inquiry-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.form-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+}
+
+.frame-90-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.frame-184957 {
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 93px;
+  width: 633px;
+}
+
+.line-container {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  left: -20px;
+  min-height: 293px;
+  padding: 90.6px 48px;
+  position: relative;
+  top: -18px;
+  width: 673px;
+}
+
+.line {
+  height: 1px;
+  width: 570px;
+}
+

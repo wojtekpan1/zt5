@@ -1,0 +1,63 @@
+.card-20,
+.card-21,
+.card-22 {
+  align-items: flex-start;
+  background-color: var(--primarygreen);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 334px;
+  justify-content: center;
+  left: 334px;
+  padding: 30px 20px;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.lorem-ipsum-dolor-si-20,
+.lorem-ipsum-dolor-si-21,
+.lorem-ipsum-dolor-si-22 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.frame-184965,
+.frame-184965-1,
+.frame-184965-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 309px;
+}
+
+.button-20,
+.button-21,
+.button-22 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--greyswhite);
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  justify-content: center;
+  padding: 15px 30px;
+  position: relative;
+}
+
+.request-a-demo,
+.request-a-demo-1,
+.request-a-demo-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+

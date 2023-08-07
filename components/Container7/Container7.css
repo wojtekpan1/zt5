@@ -1,0 +1,60 @@
+.container-19,
+.container-20 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content-47,
+.content-48 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 1400px;
+}
+
+.our-partners-1,
+.our-partners-2 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lorem-ipsum-dolor-si-64,
+.lorem-ipsum-dolor-si-65 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 1016px;
+}
+
+.caret-circle-left-11,
+.caret-circle-left-12 {
+  height: 42px;
+  left: -50px;
+  position: absolute;
+  top: 304px;
+  width: 42px;
+}
+
+.caret-circle-right-22,
+.caret-circle-right-23 {
+  height: 42px;
+  left: 1680px;
+  position: absolute;
+  top: 424px;
+  width: 42px;
+}
+

@@ -1,0 +1,32 @@
+.group-62 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 30px;
+  min-width: 190px;
+}
+
+.ellipse-22-2 {
+  align-self: center;
+  border-radius: 13.5px;
+  height: 27px;
+  margin-bottom: 1.0px;
+  width: 27px;
+}
+
+.i-am-not-sure {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 30px;
+  width: 154px;
+}
+
+.group-62.group-62-1,
+.group-62.group-62-3,
+.group-62.group-62-4 {
+  left: 323px;
+  position: absolute;
+  top: 13px;
+}
+

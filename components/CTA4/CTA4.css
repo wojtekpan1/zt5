@@ -1,0 +1,25 @@
+.cta-9 {
+  align-items: flex-start;
+  background-color: var(--primaryred);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  margin-top: 50px;
+  min-width: 255px;
+  padding: 16.5px 50px;
+}
+
+.contact-us-91 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+}
+
+.cta-9.cta-10,
+.cta-9.cta-14,
+.cta-9.cta-16,
+.cta-9.cta-18,
+.cta-9.cta-20 {
+  min-width: 256px;
+}
+

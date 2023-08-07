@@ -1,0 +1,50 @@
+.twitter {
+  align-items: center;
+  background-color: var(--greysdark);
+  border-radius: 15px/14.5px;
+  display: flex;
+  height: 29px;
+  min-width: 30px;
+  padding: 0 9px;
+}
+
+.twitter-1 {
+  height: 11px;
+  width: 12px;
+}
+
+.twitter.linkedin-2,
+.twitter.linkedin-3,
+.twitter.linkedin-4,
+.twitter.linkedin-5,
+.twitter.linkedin-6,
+.twitter.linkedin-7,
+.twitter.linkedin-8,
+.twitter.linkedin-9,
+.twitter.linkedin-10,
+.twitter.linkedin-11,
+.twitter.linkedin-12,
+.twitter.linkedin-13,
+.twitter.linkedin-14,
+.twitter.linkedin-15 {
+  align-items: flex-start;
+  padding: 8.4px 8.9px;
+}
+
+.twitter.linkedin-2 .twitter-1,
+.twitter.linkedin-3 .twitter-1,
+.twitter.linkedin-4 .twitter-1,
+.twitter.linkedin-5 .twitter-1,
+.twitter.linkedin-6 .twitter-1,
+.twitter.linkedin-7 .twitter-1,
+.twitter.linkedin-8 .twitter-1,
+.twitter.linkedin-9 .twitter-1,
+.twitter.linkedin-10 .twitter-1,
+.twitter.linkedin-11 .twitter-1,
+.twitter.linkedin-12 .twitter-1,
+.twitter.linkedin-13 .twitter-1,
+.twitter.linkedin-14 .twitter-1,
+.twitter.linkedin-15 .twitter-1 {
+  height: 12px;
+}
+

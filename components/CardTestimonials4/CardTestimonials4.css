@@ -1,0 +1,68 @@
+.card-testimonials-11 {
+  align-items: flex-end;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 409px;
+  padding: 39px 29px;
+  width: 332px;
+}
+
+.flex-row-55 {
+  align-items: center;
+  display: flex;
+  gap: 59px;
+  height: 38px;
+  min-width: 273px;
+}
+
+.flex-col-84 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: -87px;
+  min-height: 38px;
+  width: 121px;
+}
+
+.name-20 {
+  letter-spacing: 0;
+  line-height: 110px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.ceo-pharma-co-11 {
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-bottom: -95px;
+  min-height: 15px;
+  white-space: nowrap;
+}
+
+.image-28-11 {
+  height: 19px;
+  margin-bottom: 9.0px;
+  object-fit: cover;
+  width: 93px;
+}
+
+.super-easy-process-11 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  margin-top: 30px;
+  white-space: nowrap;
+}
+
+.text0-i2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 14px;
+  min-height: 180px;
+  position: relative;
+  width: 273px;
+}
+

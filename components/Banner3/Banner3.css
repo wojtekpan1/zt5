@@ -1,0 +1,33 @@
+.banner-4-1 {
+  align-items: flex-start;
+  background-color: var(--aqua-deep);
+  border: 1px none;
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group5-10 {
+  height: 1279px;
+  position: relative;
+  width: 2090px;
+}
+
+.hans-reniers-l-qgjcmy5qc-m-unsplash-3 {
+  background-color: var(--primarygreen);
+  height: 1078px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 611px;
+}
+
+.logo-icon {
+  height: 789px;
+  left: 1192px;
+  position: absolute;
+  top: 490px;
+  width: 898px;
+}
+

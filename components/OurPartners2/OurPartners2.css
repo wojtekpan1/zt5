@@ -1,0 +1,239 @@
+.our-partners-3-1 {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2215px;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-36 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-52 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-58 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.frame-104-4 {
+  align-items: center;
+  display: flex;
+  gap: 3px;
+  margin-left: 73px;
+  margin-top: 106px;
+  min-width: 190px;
+  position: relative;
+}
+
+.icon-15 {
+  height: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  text-align: center;
+  white-space: nowrap;
+  width: 8px;
+}
+
+.ghost-_breadcrumb_item-28 {
+  align-items: flex-start;
+  background-color: #ffffff00;
+  border-radius: 4px;
+  display: flex;
+  height: 24px;
+  min-width: 115px;
+  padding: 0 8px;
+}
+
+.our-partners-6 {
+  letter-spacing: 0;
+  line-height: 160px;
+  margin-top: -2px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.title-38 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 72px;
+  margin-top: 54px;
+  min-height: 73px;
+}
+
+.lorem-ipsum-dolor-si-132 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 75px;
+  margin-top: 30px;
+  min-height: 38px;
+  width: 646px;
+}
+
+.partners-90 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 53px;
+  margin-right: 35.0px;
+  margin-top: 117px;
+  min-height: 703px;
+  width: 1251px;
+}
+
+.group-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-height: 57px;
+  width: 1288px;
+}
+
+.frame-43 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 29px;
+  min-width: 1283px;
+}
+
+.solution-partners-17 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+  min-width: 205px;
+}
+
+.technology-partners {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+  min-width: 235px;
+}
+
+.research-partners {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+  min-width: 209px;
+}
+
+.ecosystem-expansion-partners {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 29px;
+}
+
+.overlap-group2-15 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1288px;
+  padding: 0 1px;
+}
+
+.line-3-3 {
+  height: 1px;
+  width: 205px;
+}
+
+.group-container {
+  height: 621px;
+  position: relative;
+  width: 1223px;
+}
+
+.overlap-group1-18 {
+  height: 621px;
+  left: 566px;
+  position: absolute;
+  top: 0;
+  width: 657px;
+}
+
+.ellipse-container-14 {
+  height: 621px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 594px;
+}
+
+.ellipse-9-8 {
+  background-color: var(--alto);
+  border-radius: 121.5px;
+  height: 243px;
+  left: 153px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.ellipse-13-1 {
+  background-color: var(--alto);
+  border-radius: 94px;
+  height: 188px;
+  left: 0;
+  position: absolute;
+  top: 222px;
+  width: 188px;
+}
+
+.ellipse-11-1 {
+  background-color: var(--cultured-pearl);
+  border-radius: 112px;
+  height: 224px;
+  left: 153px;
+  position: absolute;
+  top: 397px;
+  width: 224px;
+}
+
+.ellipse-12-1 {
+  background-color: var(--alto);
+  border-radius: 112px;
+  height: 224px;
+  left: 370px;
+  position: absolute;
+  top: 204px;
+  width: 224px;
+}
+
+.ellipse-10-8 {
+  background-color: var(--cultured-pearl);
+  border-radius: 94px;
+  height: 188px;
+  left: 469px;
+  position: absolute;
+  top: 0;
+  width: 188px;
+}
+

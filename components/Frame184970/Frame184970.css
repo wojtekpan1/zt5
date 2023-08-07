@@ -1,0 +1,29 @@
+.frame-184970 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  min-height: 296px;
+  width: 313px;
+}
+
+.title-60 {
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.heading {
+  letter-spacing: 0;
+  line-height: 52px;
+  white-space: nowrap;
+}
+
+.body-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+

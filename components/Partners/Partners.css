@@ -1,0 +1,66 @@
+.partners-46,
+.partners-47,
+.partners-48 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 79px;
+  min-height: 280px;
+  width: 1286px;
+}
+
+.our-partners-3,
+.our-partners-4,
+.our-partners-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 251px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-101,
+.lorem-ipsum-dolor-si-102,
+.lorem-ipsum-dolor-si-103 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 26px;
+  min-height: 48px;
+  text-align: center;
+  width: 805px;
+}
+
+.frame-19,
+.frame-19-1,
+.frame-19-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 58px;
+  margin-top: 71px;
+  min-width: 1301px;
+}
+
+.rectangle,
+.rectangle-2,
+.rectangle-4 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 88px;
+  width: 166px;
+}
+
+.become-a-partner,
+.become-a-partner-1,
+.become-a-partner-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 128px;
+  min-height: 22px;
+  min-width: 154px;
+}
+

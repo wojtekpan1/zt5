@@ -1,0 +1,159 @@
+.homepage-our-solutions {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5318px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flex-row-27 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1292px;
+  position: relative;
+}
+
+.logo-44 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  min-width: 104px;
+}
+
+.contact-us-51 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 200px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+}
+
+.title-32 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 129px;
+  min-height: 73px;
+  min-width: 704px;
+  text-align: center;
+}
+
+.rebuild-the-healthca-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 29px;
+  min-height: 28px;
+  text-align: center;
+  width: 785px;
+}
+
+.solutions-61 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 127px;
+  min-height: 582px;
+  position: relative;
+  width: 1441px;
+}
+
+.our-solutions-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 60px;
+  min-height: 48px;
+  min-width: 263px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-112 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 26px;
+  min-height: 48px;
+  text-align: center;
+  width: 805px;
+}
+
+.flex-row-28 {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  margin-left: 30.0px;
+  margin-top: 50px;
+  min-width: 1323px;
+}
+
+.frame-87-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 62px;
+  min-width: 1004px;
+}
+
+.group-87-2 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  gap: 22px;
+  min-width: 653px;
+  position: relative;
+}
+
+.overlap-group-41 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 116px 85px;
+}
+
+.solution-1-58 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.overlap-group1-10 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  justify-content: flex-end;
+  min-width: 289px;
+  padding: 0 83px;
+}
+
+.solution-50 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 121px;
+  white-space: nowrap;
+}
+
+.overlap-group3-9 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  height: 258px;
+  min-width: 289px;
+  padding: 0 83px;
+}
+

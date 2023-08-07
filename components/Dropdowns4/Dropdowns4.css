@@ -1,0 +1,15 @@
+.dropdowns2 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  min-height: 204px;
+  overflow-x: hidden;
+  padding: 34px 30px;
+  position: relative;
+  width: 504px;
+}
+

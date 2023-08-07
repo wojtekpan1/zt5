@@ -1,0 +1,25 @@
+.tabs-item,
+.tab-2,
+.tabs-1-item {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 0px;
+  position: relative;
+  width: 334px;
+}
+
+.population-health,
+.physician-support,
+.physician-support-1,
+.population-health-1,
+.physician-support-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+

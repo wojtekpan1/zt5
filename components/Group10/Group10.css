@@ -1,0 +1,12 @@
+.group-10-5,
+.group-10-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 47px;
+  margin-top: 14px;
+  min-height: 235px;
+  position: relative;
+  width: 306px;
+}
+

@@ -1,0 +1,23 @@
+.frame-106,
+.frame-106-1,
+.frame-106-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.lorem-ipsum-dolor-s,
+.lorem-ipsum-dolor-s-1,
+.lorem-ipsum-dolor-s-2 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 626px;
+}
+

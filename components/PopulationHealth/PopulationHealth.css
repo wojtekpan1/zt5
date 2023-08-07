@@ -1,0 +1,130 @@
+.population-health-10 {
+  align-items: flex-start;
+  background-color: var(--greyslight-beige);
+  border: 1px none;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.banner-13 {
+  height: 591px;
+  position: relative;
+  width: 1920px;
+}
+
+.overlap-group-24 {
+  height: 591px;
+  position: relative;
+}
+
+.breadcrumb-11 {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  left: 260px;
+  position: absolute;
+  top: 238px;
+}
+
+.place-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.caret-circle-right-24 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.solutions-19 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.population-health-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.6;
+  position: relative;
+  width: fit-content;
+}
+
+.solution-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 120px 260px;
+  position: relative;
+  width: 1920px;
+}
+
+.content-50 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  position: relative;
+  width: 1400px;
+}
+
+.t-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 667px;
+}
+
+.catalyst-1 {
+  letter-spacing: 0;
+  line-height: 52px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-catalyst-s4-c,
+.how-can-it-help-you,
+.lorem-ipsum-dolor-si-68,
+.lorem-ipsum-dolor-si-69 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 587px;
+}
+
+.frame-115::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-115 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.frame-115-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+

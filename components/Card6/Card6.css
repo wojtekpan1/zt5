@@ -1,0 +1,47 @@
+.card-26 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 204px;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  width: 204px;
+}
+
+.image-14 {
+  height: 94px;
+  margin-left: -7.50px;
+  margin-right: -7.50px;
+  object-fit: cover;
+  position: relative;
+  width: 179px;
+}
+
+.card-26.card-39,
+.card-26.card-40,
+.card-26.card-41,
+.card-26.card-42,
+.card-26.card-43 {
+  flex-direction: unset;
+  gap: unset;
+  justify-content: unset;
+  min-width: 204px;
+  padding: 0 12.5px;
+  position: unset;
+  width: unset;
+}
+
+.card-26.card-39 .image-14,
+.card-26.card-40 .image-14,
+.card-26.card-41 .image-14,
+.card-26.card-42 .image-14,
+.card-26.card-43 .image-14 {
+  margin-left: unset;
+  margin-right: unset;
+  position: unset;
+}
+

@@ -1,0 +1,141 @@
+.team-expanded {
+  align-items: flex-start;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group1-23 {
+  height: 2315px;
+  position: relative;
+  width: 1441px;
+}
+
+.title-45 {
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 277px;
+}
+
+.lorem-ipsum-dolor-si-150 {
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 380px;
+  width: 646px;
+}
+
+.logo-61 {
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.contact-us-64 {
+  left: 1244px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+}
+
+.rectangle-33-1 {
+  background-color: var(--black-4);
+  height: 2315px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.team-member-detail-2 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  height: 612px;
+  justify-content: flex-end;
+  left: 105px;
+  min-width: 1201px;
+  padding: 15px 11px;
+  position: absolute;
+  top: 529px;
+}
+
+.flex-col-53 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 34.0px;
+  min-height: 458px;
+  width: 595px;
+}
+
+.place-35 {
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.position-5 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 9px;
+  white-space: nowrap;
+}
+
+.group-74-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 41px;
+  min-height: 304px;
+  width: 595px;
+}
+
+.lorem-ipsum-dolor-si-151 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  min-height: 134px;
+  width: 591px;
+}
+
+.lorem-ipsum-dolor-si-152 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 130px;
+  width: 591px;
+}
+
+.linkedin-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 38px;
+  white-space: nowrap;
+}
+
+.rectangle-29-1 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 380px;
+  margin-left: 65px;
+  margin-top: 46.0px;
+  width: 380px;
+}
+
+.icon-close-4 {
+  align-self: flex-start;
+  height: 40px;
+  margin-left: 29px;
+  width: 40px;
+}
+

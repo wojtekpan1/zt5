@@ -1,0 +1,33 @@
+.news-4,
+.news-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  margin-top: 150px;
+  min-height: 531px;
+  position: relative;
+  width: 1287px;
+}
+
+.latest-insights,
+.latest-insights-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: -1px;
+  min-height: 48px;
+  min-width: 290px;
+  white-space: nowrap;
+}
+
+.lorem-ipsum-dolor-si-113,
+.lorem-ipsum-dolor-si-114 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: 26px;
+  min-height: 48px;
+  width: 805px;
+}
+

@@ -1,0 +1,51 @@
+.card-24 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 204px;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  width: 204px;
+}
+
+.image-11 {
+  height: 166px;
+  margin-bottom: -1.00px;
+  margin-left: -1.50px;
+  margin-right: -1.50px;
+  margin-top: -1.00px;
+  object-fit: cover;
+  position: relative;
+  width: 167px;
+}
+
+.card-24.card-27,
+.card-24.card-28,
+.card-24.card-29,
+.card-24.card-30,
+.card-24.card-31 {
+  flex-direction: unset;
+  gap: unset;
+  justify-content: unset;
+  min-width: 204px;
+  padding: 0 18.5px;
+  position: unset;
+  width: unset;
+}
+
+.card-24.card-27 .image-11,
+.card-24.card-28 .image-11,
+.card-24.card-29 .image-11,
+.card-24.card-30 .image-11,
+.card-24.card-31 .image-11 {
+  margin-bottom: unset;
+  margin-left: unset;
+  margin-right: unset;
+  margin-top: unset;
+  position: unset;
+}
+

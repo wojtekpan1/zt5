@@ -1,0 +1,104 @@
+.preferred-option-1 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1598px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.flex-row-21 {
+  align-items: flex-start;
+  display: flex;
+  gap: 1239px;
+  height: 52px;
+  margin-right: 1.0px;
+  margin-top: 44px;
+  min-width: 1801px;
+}
+
+.title-23 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 51px;
+  min-width: 385px;
+}
+
+.new_act-logo-v5-1-5 {
+  height: 43px;
+  object-fit: cover;
+  width: 177px;
+}
+
+.screenshot-2022-12-07-at-115-2-1 {
+  height: 1432px;
+  margin-top: 70px;
+  object-fit: cover;
+  width: 1920px;
+}
+
+.flex-row-22 {
+  align-items: flex-start;
+  display: flex;
+  gap: 27px;
+  margin-right: 519.0px;
+  margin-top: 1581px;
+  min-width: 77px;
+}
+
+.rectangle-3-1 {
+  background-color: var(--blue-stone);
+  border-radius: 100px;
+  height: 25px;
+  width: 25px;
+}
+
+.rectangle-1-1 {
+  background-color: var(--pink-flamingo);
+  border-radius: 100px;
+  height: 25px;
+  width: 25px;
+}
+
+.preferred-option-1.preferred-option-2 {
+  height: 1602px;
+}
+
+.preferred-option-1.preferred-option-2 .flex-row-21,
+.preferred-option-1.preferred-option-3-2 .flex-row-21,
+.preferred-option-1.preferred-option-3 .flex-row-21 {
+  gap: 1230px;
+}
+
+.preferred-option-1.preferred-option-2 .title-23,
+.preferred-option-1.preferred-option-3-2 .title-23,
+.preferred-option-1.preferred-option-3 .title-23 {
+  min-width: 394px;
+}
+
+.preferred-option-1.preferred-option-2 .screenshot-2022-12-07-at-115-2-1 {
+  height: 1436px;
+}
+
+.preferred-option-1.preferred-option-2 .flex-row-22 {
+  margin-top: 1577px;
+}
+
+.preferred-option-1.preferred-option-3-2,
+.preferred-option-1.preferred-option-3 {
+  height: 1607px;
+}
+
+.preferred-option-1.preferred-option-3-2 .screenshot-2022-12-07-at-115-2-1,
+.preferred-option-1.preferred-option-3 .screenshot-2022-12-07-at-115-2-1 {
+  height: 1441px;
+}
+
+.preferred-option-1.preferred-option-3-2 .flex-row-22,
+.preferred-option-1.preferred-option-3 .flex-row-22 {
+  margin-top: 1572px;
+}
+

@@ -1,0 +1,61 @@
+.header-5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 255px;
+  justify-content: flex-start;
+  min-width: 1400px;
+  width: auto;
+}
+
+.logo-67 {
+  height: 29px;
+  margin-bottom: 0;
+  width: 214px;
+}
+
+.menu-37 {
+  align-items: center;
+  display: flex;
+  height: 65px;
+  min-width: 931px;
+  position: relative;
+}
+
+.contact-us-74 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2.0px;
+  margin-left: 81px;
+  min-height: 25px;
+  min-width: 91px;
+}
+
+.header-5.header-9 {
+  flex-shrink: unset;
+  height: 65px;
+  left: 260px;
+  position: absolute;
+  top: 46px;
+}
+
+.header-5.header-13,
+.header-5.header-14,
+.header-5.header-15,
+.header-5.header-16,
+.header-5.header-17,
+.header-5.header-18,
+.header-5.header-19,
+.header-5.header-20,
+.header-5.header-21,
+.header-5.header-22,
+.header-5.header-23 {
+  flex-shrink: unset;
+  height: 65px;
+  left: 260px;
+  position: absolute;
+  top: 44px;
+}
+

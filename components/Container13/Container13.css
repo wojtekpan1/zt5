@@ -1,0 +1,18 @@
+.container-41 {
+  align-items: flex-start;
+  display: flex;
+  height: 772px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  opacity: 0.9;
+  padding: 120px 0;
+  position: relative;
+}
+
+.container-41.contact-3,
+.container-41.contact-4 {
+  align-items: center;
+  height: 652px;
+  padding: unset;
+}
+

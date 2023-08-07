@@ -1,0 +1,45 @@
+.group-11-1,
+.group-11-2,
+.group-11-3,
+.group-11-4,
+.group-11-5,
+.group-11-6,
+.group-11-7,
+.group-11-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 219px;
+  width: 553px;
+}
+
+.lorem-ipsum-dolor-si-81,
+.lorem-ipsum-dolor-si-82,
+.lorem-ipsum-dolor-si-83,
+.lorem-ipsum-dolor-si-84,
+.lorem-ipsum-dolor-si-85,
+.lorem-ipsum-dolor-si-86,
+.lorem-ipsum-dolor-si-87,
+.lorem-ipsum-dolor-si-88 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 57px;
+  width: 547px;
+}
+
+.lorem-ipsum-dolor-si-73,
+.lorem-ipsum-dolor-si-74,
+.lorem-ipsum-dolor-si-75,
+.lorem-ipsum-dolor-si-76,
+.lorem-ipsum-dolor-si-77,
+.lorem-ipsum-dolor-si-78,
+.lorem-ipsum-dolor-si-79,
+.lorem-ipsum-dolor-si-80 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 57px;
+  width: 547px;
+}
+

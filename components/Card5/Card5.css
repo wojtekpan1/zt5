@@ -1,0 +1,43 @@
+.card-25 {
+  align-items: center;
+  background-color: var(--greyswhite);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 204px;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  width: 204px;
+}
+
+.image-12 {
+  height: 80px;
+  object-fit: cover;
+  position: relative;
+  width: 134px;
+}
+
+.card-25.card-33,
+.card-25.card-34,
+.card-25.card-35,
+.card-25.card-36,
+.card-25.card-37 {
+  flex-direction: unset;
+  gap: unset;
+  justify-content: unset;
+  min-width: 204px;
+  padding: 0 35px;
+  position: unset;
+  width: unset;
+}
+
+.card-25.card-33 .image-12,
+.card-25.card-34 .image-12,
+.card-25.card-35 .image-12,
+.card-25.card-36 .image-12,
+.card-25.card-37 .image-12 {
+  position: unset;
+}
+
